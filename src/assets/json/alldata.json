@@ -1,0 +1,6041 @@
+[
+  {
+    "key": "scores",
+    "data": [
+      {
+          "id": "altamaha-emc",
+          "name": "Altamaha EMC",
+          "url": "https://www.altamahaemc.com/index.html",
+          "counties": "emanuel-county, johnson-county, laurens-county, montgomery-county, tattnall-county, toombs-county, treutlen-county",
+          "serviceMap": "https://www.altamahaemc.com/about/emc-data.html",
+          "customers": "14051",
+          "byLaws": "https://www.altamahaemc.com/AEMC-BYLAWS.pdf",
+          "": "",
+          "dg-01": 2,
+          "dg-02": 0,
+          "dg-03": 4,
+          "dg-04": 2,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 2,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 40417,
+          "fc-03": 10,
+          "fc-04": 4661,
+          "fc-05": 12,
+          "fc-06": 6,
+          "fc-07": 168744,
+          "fc-08": 61970,
+          "fc-09": 230714,
+          "fc-10": 6,
+          "fc-11": 3,
+          "fc-12": 0,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/display_990/580137655/download990pdf_01_2022_prefixes_47-58%2F580137655_201912_990O_2022011919483183",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 2,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 2,
+          "ps-07": 0,
+          "ps-08": 4,
+          "ps-09": 0,
+          "ps-10": 2,
+          "ps-11": 4,
+          "Total": 38,
+          "dgTotal": 15,
+          "fcTotal": 9,
+          "psTotal": 14
+      },
+      {
+          "id": "amicalola-emc",
+          "name": "Amicalola EMC",
+          "url": "https://www.amicalolaemc.com/",
+          "counties": "fannin-county, gilmer-county, murray-county, gordon-county, bartow-county, cherokee-county, pickens-county, dawson-county, forsyth-county, lumpkin-county",
+          "serviceMap": "https://www.amicalolaemc.com/my-co-op/our-service-area/",
+          "customers": "52888",
+          "byLaws": "https://www.amicalolaemc.com/wp-content/uploads/2021/09/aemc-bylaws-2021-09.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 4,
+          "dg-04": 2,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 65557,
+          "fc-03": 9,
+          "fc-04": 28283,
+          "fc-05": 43,
+          "fc-06": 6,
+          "fc-07": 328832,
+          "fc-08": 114021,
+          "fc-09": 442853,
+          "fc-10": 7,
+          "fc-11": 3,
+          "fc-12": 0,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/display_990/580140201/06_2021_prefixes_54-58%2F580140201_201912_990O_2021060818288688",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 2,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 1,
+          "ps-07": 0,
+          "ps-08": 2,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 30,
+          "dgTotal": 15,
+          "fcTotal": 6,
+          "psTotal": 9
+      },
+      {
+          "id": "blue-ridge-mountain-emc",
+          "name": "Blue Ridge Mountain EMC",
+          "url": "https://www.brmemc.com/",
+          "counties": "towns-county, union-county, fannin-county, nc counties-county",
+          "serviceMap": "Not available",
+          "customers": "11300",
+          "byLaws": "http://www.brmemc.com/wp-content/uploads/2020/10/BRMEMC-by-laws.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 2,
+          "dg-05": 2,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 4,
+          "dg-10": 0,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 3,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 4,
+          "fc-02": 48996,
+          "fc-03": 9,
+          "fc-04": 5300,
+          "fc-05": 11,
+          "fc-06": 6,
+          "fc-07": 238676,
+          "fc-08": 45980,
+          "fc-09": 284656,
+          "fc-10": 6,
+          "fc-11": 3,
+          "fc-12": 0,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/display_990/580165073/06_2021_prefixes_54-58%2F580165073_202006_990O_2021060818295085",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 0,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 2,
+          "ps-07": 2,
+          "ps-08": 4,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 0,
+          "Total": 36,
+          "dgTotal": 13,
+          "fcTotal": 13,
+          "psTotal": 10
+      },
+      {
+          "id": "canoochee-emc",
+          "name": "Canoochee EMC",
+          "url": "https://www.canoocheeemc.com/",
+          "counties": "bryan-county, bulloch-county, candler-county, chatham-county, effingham-county, evans-county, liberty-county, long-county, tattnall-county, toombs-county",
+          "serviceMap": "https://www.canoocheeemc.com/service-territory-and-board-districts",
+          "customers": "15000",
+          "byLaws": "https://www.canoocheeemc.com/canoochee-emc-bylaws",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 52085,
+          "fc-03": 9,
+          "fc-04": 9156,
+          "fc-05": 18,
+          "fc-06": 6,
+          "fc-07": 235561,
+          "fc-08": 90703,
+          "fc-09": 326264,
+          "fc-10": 6,
+          "fc-11": 3,
+          "fc-12": 4,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580182756/202023029349301952/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 2,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 0,
+          "Total": 29,
+          "dgTotal": 10,
+          "fcTotal": 13,
+          "psTotal": 6
+      },
+      {
+          "id": "carroll-emc",
+          "name": "Carroll EMC",
+          "url": "https://carrollemc.com/",
+          "counties": "carroll-county, haralson-county, heard-county, paulding-county, polk-county, troup-county, floyd-county",
+          "serviceMap": "https://carrollemc.com/about-us",
+          "customers": "52000",
+          "byLaws": "https://carrollemc.com/sites/carrollemc/files/Documents/Carroll%20EMC%20Bylaws%20-%20Final%20Oct.%206%2C%202017.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 4,
+          "dg-10": 2,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 54322,
+          "fc-03": 9,
+          "fc-04": 31826,
+          "fc-05": 59,
+          "fc-06": 0,
+          "fc-07": 397898,
+          "fc-08": 88943,
+          "fc-09": 486841,
+          "fc-10": 9,
+          "fc-11": 3,
+          "fc-12": 2,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580184715/202140999349300129/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 1,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 2,
+          "ps-09": 0,
+          "ps-10": 2,
+          "ps-11": 4,
+          "Total": 27,
+          "dgTotal": 10,
+          "fcTotal": 2,
+          "psTotal": 15
+      },
+      {
+          "id": "central-georgia-emc",
+          "name": "Central Georgia EMC",
+          "url": "https://www.cgemc.com/",
+          "counties": "bibb-county, butts-county, clayton-county, fayette-county, henry-county, jasper-county, jones-county, lamar-county, monroe-county, morgan-county, newton-county, pike-county, putnam-county, spalding-county",
+          "serviceMap": "https://www.cgemc.com/service-area",
+          "customers": "59000",
+          "byLaws": "https://www.cgemc.com/sites/cgemc/files/documents/2021%20CGEMC%20Bylaws.pdf",
+          "": "",
+          "dg-01": 2,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 2,
+          "dg-10": 2,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 59132,
+          "fc-03": 8,
+          "fc-04": 24202,
+          "fc-05": 41,
+          "fc-06": 6,
+          "fc-07": 474967,
+          "fc-08": 32387,
+          "fc-09": 507354,
+          "fc-10": 9,
+          "fc-11": 0,
+          "fc-12": 0,
+          "fc-13": 2018,
+          "fc-14": "https://projects.propublica.org/nonprofits/display_990/580187885/11_2019_prefixes_54-59%2F580187885_201812_990O_2019110616823068",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 1,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 2,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 28,
+          "dgTotal": 9,
+          "fcTotal": 6,
+          "psTotal": 13
+      },
+      {
+          "id": "coastal-emc",
+          "name": "Coastal EMC",
+          "url": "https://coastalelectriccooperative.com/",
+          "counties": "bryan-county, liberty-county, long-county, mcintosh-county",
+          "serviceMap": "https://coastalelectriccooperative.com/our-service-territory/",
+          "customers": "6283",
+          "byLaws": "https://coastalelectriccooperative.com/wp-content/uploads/2015/07/Bylaws-Compendium-as-of-June-2017.pdf",
+          "": "",
+          "dg-01": 2,
+          "dg-02": 0,
+          "dg-03": 2,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 4,
+          "dg-10": 0,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 58723,
+          "fc-03": 9,
+          "fc-04": 19674,
+          "fc-05": 34,
+          "fc-06": 6,
+          "fc-07": 255832,
+          "fc-08": 93392,
+          "fc-09": 349224,
+          "fc-10": 6,
+          "fc-11": 3,
+          "fc-12": 2,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580197945/202110909349300316/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 0,
+          "ps-05": 1,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 4,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 2,
+          "Total": 34,
+          "dgTotal": 12,
+          "fcTotal": 11,
+          "psTotal": 11
+      },
+      {
+          "id": "cobb-emc",
+          "name": "Cobb EMC",
+          "url": "https://www.cobbemc.com/",
+          "counties": "bartow-county, cherokee-county, fulton-county, cobb-county, paulding-county",
+          "serviceMap": "https://www.cobbemc.com/district-map",
+          "customers": "200000",
+          "byLaws": "https://cobbemc.com/sites/default/files/documents/Master_Bylaws_Amended_June_28_2022.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 2,
+          "dg-04": 2,
+          "dg-05": 2,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 4,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 2,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 74753,
+          "fc-03": 9,
+          "fc-04": 46009,
+          "fc-05": 62,
+          "fc-06": 0,
+          "fc-07": 758296,
+          "fc-08": 0,
+          "fc-09": 758296,
+          "fc-10": 10,
+          "fc-11": 0,
+          "fc-12": 2,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580198155/202023179349306852/full",
+          "ps-01": 3,
+          "ps-02": 0,
+          "ps-03": 2,
+          "ps-04": 0,
+          "ps-05": 1,
+          "ps-06": 3,
+          "ps-07": 0,
+          "ps-08": 4,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 39,
+          "dgTotal": 20,
+          "fcTotal": 2,
+          "psTotal": 17
+      },
+      {
+          "id": "colquitt-emc",
+          "name": "Colquitt EMC",
+          "url": "https://colquittemc.com/",
+          "counties": "berrien-county, brooks-county, colquitt-county, cook-county, lowndes-county, tift-county, worth-county",
+          "serviceMap": "Not available",
+          "customers": "47508",
+          "byLaws": "https://colquittemc.com/about-us/bylaws",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 4,
+          "dg-04": 2,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 2,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 47743,
+          "fc-03": 9,
+          "fc-04": 28361,
+          "fc-05": 59,
+          "fc-06": 0,
+          "fc-07": 383810,
+          "fc-08": 83376,
+          "fc-09": 467186,
+          "fc-10": 10,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580201495/202110709349301306/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 0,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 2,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 19,
+          "dgTotal": 9,
+          "fcTotal": 4,
+          "psTotal": 6
+      },
+      {
+          "id": "coweta-fayette-emc",
+          "name": "Coweta-Fayette EMC",
+          "url": "https://utility.org/",
+          "counties": "fayette-county, fulton-county, coweta-county, meriwether-county, troup-county, heard-county, clayton-county",
+          "serviceMap": "https://utility.org/about-us/service-area/",
+          "customers": "70000",
+          "byLaws": "https://utility.org/wp-content/uploads/2014/06/by-laws-2013-for-website.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 2,
+          "dg-04": 2,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 4,
+          "dg-10": 2,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 61989,
+          "fc-03": 9,
+          "fc-04": 32864,
+          "fc-05": 53,
+          "fc-06": 0,
+          "fc-07": 493441,
+          "fc-08": 144561,
+          "fc-09": 638002,
+          "fc-10": 10,
+          "fc-11": 0,
+          "fc-12": 2,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580516995/202042769349300014/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 1,
+          "ps-06": 4,
+          "ps-07": 2,
+          "ps-08": 4,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 0,
+          "Total": 34,
+          "dgTotal": 15,
+          "fcTotal": 2,
+          "psTotal": 17
+      },
+      {
+          "id": "diverse-power-inc",
+          "name": "Diverse Power Inc",
+          "url": "https://www.diversepower.com/",
+          "counties": "troup-county, harris-county, heard-county, meriwether-county, muscogee-county, coweta-county, quitman-county, randolph-county, clay-county, calhoun-county, dougherty-county, early-county, stewart-county, terrell-county, chambers (alabama)-county",
+          "serviceMap": "https://www.diversepower.com/your-meter/service-area/",
+          "customers": "27000",
+          "byLaws": "https://www.diversepower.com/about-us/bylaws/",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 2,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 4,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 45199,
+          "fc-03": 10,
+          "fc-04": 25780,
+          "fc-05": 57,
+          "fc-06": 0,
+          "fc-07": 385514,
+          "fc-08": 57071,
+          "fc-09": 442585,
+          "fc-10": 10,
+          "fc-11": 0,
+          "fc-12": 0,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580465897/202101269349301535/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 1,
+          "ps-06": 0,
+          "ps-07": 2,
+          "ps-08": 2,
+          "ps-09": 0,
+          "ps-10": 2,
+          "ps-11": 0,
+          "Total": 23,
+          "dgTotal": 10,
+          "fcTotal": 0,
+          "psTotal": 13
+      },
+      {
+          "id": "excelsior-emc",
+          "name": "Excelsior",
+          "url": "https://excelsioremc.com/",
+          "counties": "bryan-county, bulloch-county, candler-county, effingham-county, evans-county, emanuel-county, jenkins-county, tattnall-county",
+          "serviceMap": "Not available",
+          "customers": "22000",
+          "byLaws": "https://excelsioremc.com/wp-content/uploads/2020/07/Bylaws-as-of-May-27-2020.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 47937,
+          "fc-03": 9,
+          "fc-04": 24481,
+          "fc-05": 51,
+          "fc-06": 0,
+          "fc-07": 275122,
+          "fc-08": 106913,
+          "fc-09": 382035,
+          "fc-10": 8,
+          "fc-11": 0,
+          "fc-12": 0,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580237855/202131069349300718/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 2,
+          "ps-11": 2,
+          "Total": 14,
+          "dgTotal": 6,
+          "fcTotal": 0,
+          "psTotal": 8
+      },
+      {
+          "id": "flint-emc",
+          "name": "Flint Energies",
+          "url": "https://www.flintenergies.com/",
+          "counties": "bibb-county, chattahoochee-county, crawford-county, dooly-county, harris-county, houston-county, macon-county, marion-county, monroe-county, muscogee-county, peach-county, schley-county, sumter-county, talbot-county, taylor-county, twiggs-county, upson-county",
+          "serviceMap": "https://www.flintenergies.com/service-area",
+          "customers": "91496",
+          "byLaws": "https://www.flintenergies.com/sites/default/files/documents/2021_09_28%20MASTER%20Rules%20%26%20Regulations%20AND%20Bylaws.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 2,
+          "dg-10": 2,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 48764,
+          "fc-03": 9,
+          "fc-04": 27056,
+          "fc-05": 55,
+          "fc-06": 0,
+          "fc-07": 756545,
+          "fc-08": 71388,
+          "fc-09": 827933,
+          "fc-10": 17,
+          "fc-11": 0,
+          "fc-12": 2,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580456574/202101189349300535/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 0,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 2,
+          "ps-09": 0,
+          "ps-10": 2,
+          "ps-11": 4,
+          "Total": 22,
+          "dgTotal": 10,
+          "fcTotal": 2,
+          "psTotal": 10
+      },
+      {
+          "id": "grady-emc",
+          "name": "Grady EMC",
+          "url": "http://gradyemc.com/",
+          "counties": "grady-county, decatur-county, thomas-county",
+          "serviceMap": "http://gradyemc.com/wp-content/uploads/2017/06/Directorate-Districts.pdf",
+          "customers": "1300",
+          "byLaws": "http://gradyemc.com/wp-content/uploads/2021/04/Bylaws.Final_.Grady-EMC.2019-PDF.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 2,
+          "dg-05": 2,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 3,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 45249,
+          "fc-03": 7,
+          "fc-04": 18460,
+          "fc-05": 41,
+          "fc-06": 6,
+          "fc-07": 175825,
+          "fc-08": 54921,
+          "fc-09": 230746,
+          "fc-10": 5,
+          "fc-11": 3,
+          "fc-12": 0,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580264525/202131759349300603/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 0,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 28,
+          "dgTotal": 13,
+          "fcTotal": 9,
+          "psTotal": 6
+      },
+      {
+          "id": "greystone-power-corporation",
+          "name": "GreyStone Power Corporation",
+          "url": "https://greystonepower.com/",
+          "counties": "douglas-county, paulding-county, cobb-county, fulton-county, coweta-county, fayette-county, carroll-county, bartow-county",
+          "serviceMap": "https://greystonepower.com/service-area",
+          "customers": "133000",
+          "byLaws": "https://greystonepower.com/sites/default/files/PDF/GreyStone%20Bylaws%2002282020.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 2,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 73671,
+          "fc-03": 9,
+          "fc-04": 26812,
+          "fc-05": 36,
+          "fc-06": 6,
+          "fc-07": 901648,
+          "fc-08": 190430,
+          "fc-09": 1092078,
+          "fc-10": 15,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580224655/202003019349301110/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 0,
+          "ps-04": 0,
+          "ps-05": 1,
+          "ps-06": 2,
+          "ps-07": 2,
+          "ps-08": 2,
+          "ps-09": 2,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 37,
+          "dgTotal": 12,
+          "fcTotal": 10,
+          "psTotal": 15
+      },
+      {
+          "id": "habersham-emc",
+          "name": "Habersham EMC",
+          "url": "https://www.habershamemc.com/",
+          "counties": "habersham-county, hall-county, white-county, stephens-county, rabun-county, lumpkin-county",
+          "serviceMap": "https://www.habershamemc.com/wp-content/uploads/district-map.jpg",
+          "customers": "34355",
+          "byLaws": "",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 4,
+          "dg-04": 2,
+          "dg-05": 0,
+          "dg-06": 2,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 0,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 2,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 53016,
+          "fc-03": 11,
+          "fc-04": 15914,
+          "fc-05": 30,
+          "fc-06": 6,
+          "fc-07": 195190,
+          "fc-08": 67803,
+          "fc-09": 262993,
+          "fc-10": 5,
+          "fc-11": 6,
+          "fc-12": 2,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580273635/202132519349300803/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 0,
+          "ps-05": 4,
+          "ps-06": 2,
+          "ps-07": 0,
+          "ps-08": 4,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 43,
+          "dgTotal": 14,
+          "fcTotal": 11,
+          "psTotal": 18
+      },
+      {
+          "id": "hart-emc",
+          "name": "Hart EMC",
+          "url": "https://www.hartemc.com/",
+          "counties": "hart-county, stephens-county, franklin-county, madison-county, banks-county, elbert-county",
+          "serviceMap": "https://hartemc.maps.arcgis.com/apps/webappviewer/index.html?id=08cbe90d90914a719bc0a6a813bd70f3",
+          "customers": "35000",
+          "byLaws": "https://www.hartemc.com/wp-content/uploads/HartEMC_Bylaws.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 2,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 4,
+          "dg-10": 2,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 2,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 46973,
+          "fc-03": 7,
+          "fc-04": 12950,
+          "fc-05": 28,
+          "fc-06": 6,
+          "fc-07": 527222,
+          "fc-08": 79862,
+          "fc-09": 607084,
+          "fc-10": 13,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580280657/202022759349300727/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 0,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 0,
+          "Total": 25,
+          "dgTotal": 15,
+          "fcTotal": 10,
+          "psTotal": 0
+      },
+      {
+          "id": "irwin-emc",
+          "name": "Irwin EMC",
+          "url": "https://www.irwinemc.com/",
+          "counties": "ben-hill-county, berrien-county, coffee-county, irwin-county, tift-county, turner-county, wilcox-county, worth-county",
+          "serviceMap": "https://www.irwinemc.com/about-irwin-emc",
+          "customers": "8000",
+          "byLaws": "https://www.irwinemc.com/bylaws",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 2,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 2,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 0,
+          "dg-14": 2,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 40956,
+          "fc-03": 9,
+          "fc-04": 19476,
+          "fc-05": 48,
+          "fc-06": 6,
+          "fc-07": 258222,
+          "fc-08": 43228,
+          "fc-09": 301450,
+          "fc-10": 7,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580300540/202101169349301055/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 0,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 2,
+          "ps-07": 4,
+          "ps-08": 2,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 2,
+          "Total": 36,
+          "dgTotal": 14,
+          "fcTotal": 10,
+          "psTotal": 12
+      },
+      {
+          "id": "jackson-emc",
+          "name": "Jackson EMC",
+          "url": "https://www.jacksonemc.com/",
+          "counties": "gwinnett-county, hall-county, jackson-county, barrow-county, madison-county, clarke-county, banks-county, lumpkin-county, franklin-county, oglethorpe-county",
+          "serviceMap": "https://www.jacksonemc.com/my-cooperative/about-jackson-emc/facts-service-area",
+          "customers": "226545",
+          "byLaws": "https://www.jacksonemc.com/my-cooperative/about-jackson-emc/member-documents",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 4,
+          "dg-10": 0,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 2,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 56366,
+          "fc-03": 9,
+          "fc-04": 28284,
+          "fc-05": 50,
+          "fc-06": 6,
+          "fc-07": 563510,
+          "fc-08": 171902,
+          "fc-09": 735412,
+          "fc-10": 13,
+          "fc-11": 0,
+          "fc-12": 2,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580301471/202043189349302124/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 2,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 0,
+          "Total": 18,
+          "dgTotal": 10,
+          "fcTotal": 2,
+          "psTotal": 6
+      },
+      {
+          "id": "jefferson-energy-cooperative",
+          "name": "Jefferson Energy Cooperative",
+          "url": "https://www.jec.coop/",
+          "counties": "burke-county, columbia-county, emanuel-county, glascock-county, jefferson-county, jenkins-county, johnson-county, mcduffie-county, richmond-county, warren-county, washington-county",
+          "serviceMap": "Not available",
+          "customers": "27000",
+          "byLaws": "https://www.jec.coop/about-jec/membership-handbook-and-bylaws/",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 2,
+          "dg-04": 0,
+          "dg-05": 2,
+          "dg-06": 2,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 2,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 0,
+          "dg-14": 2,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 43989,
+          "fc-03": 9,
+          "fc-04": 15960,
+          "fc-05": 36,
+          "fc-06": 6,
+          "fc-07": 253396,
+          "fc-08": 89642,
+          "fc-09": 343038,
+          "fc-10": 8,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580303365/202112399349301111/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 2,
+          "ps-08": 2,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 34,
+          "dgTotal": 12,
+          "fcTotal": 10,
+          "psTotal": 12
+      },
+      {
+          "id": "little-ocmulgee-emc",
+          "name": "Little Ocumulgee EMC",
+          "url": "http://loemc.com",
+          "counties": "wheeler-county, telfair-county, laurens-county, montgomery-county, dodge-county",
+          "serviceMap": "http://loemc.com/about/area.html",
+          "customers": "7723",
+          "byLaws": "http://loemc.com/information/bylaws.html",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 2,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 37709,
+          "fc-03": 8,
+          "fc-04": 17121.38,
+          "fc-05": 22,
+          "fc-06": 6,
+          "fc-07": 133832,
+          "fc-08": 27331,
+          "fc-09": 161163,
+          "fc-10": 4,
+          "fc-11": 6,
+          "fc-12": 0,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580328075/202110859349301021/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 0,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 4,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 2,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 35,
+          "dgTotal": 11,
+          "fcTotal": 12,
+          "psTotal": 12
+      },
+      {
+          "id": "middle-georgia-emc",
+          "name": "Middle Georgia EMC",
+          "url": "https://www.mgemc.com",
+          "counties": "dooly-county, pulaski-county, wilcox-county, houston-county, turner-county, macon-county, ben-hill-county",
+          "serviceMap": "https://www.mgemc.com/service-area",
+          "customers": "4800",
+          "byLaws": "https://www.mgemc.com/bylaws",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 2,
+          "dg-07": 2,
+          "dg-08": 0,
+          "dg-09": 4,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 41977,
+          "fc-03": 9,
+          "fc-04": 18654,
+          "fc-05": 44,
+          "fc-06": 6,
+          "fc-07": 172414,
+          "fc-08": 38731,
+          "fc-09": 211145,
+          "fc-10": 5,
+          "fc-11": 6,
+          "fc-12": 4,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580350804/202011369349302161/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 1,
+          "ps-06": 4,
+          "ps-07": 0,
+          "ps-08": 4,
+          "ps-09": 2,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 51,
+          "dgTotal": 17,
+          "fcTotal": 13,
+          "psTotal": 21
+      },
+      {
+          "id": "mitchell-emc",
+          "name": "Mitchell EMC",
+          "url": "https://mitchellemc.com",
+          "counties": "baker-county, dougherty-county, mitchell-county, worth-county, calhoun-county, colquitt-county, decatur-county, early-county, grady-county, lee-county, miller-county, thomas-county, tift-county, turner-county",
+          "serviceMap": "https://mitchellemc.com/about-us/who-we-serve",
+          "customers": "25330",
+          "byLaws": "https://billpay.mitchellemc.com/onlineportal/Portals/0/Bylaws/MEMC%20Bylaws%20December%202013%20MASTER.pdf?ver=5NiIxh9pCd75YnmCqutNdw%3D%3D",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 2,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 0,
+          "dg-11": 2,
+          "dg-12": 2,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 43719,
+          "fc-03": 9,
+          "fc-04": 23818,
+          "fc-05": 54,
+          "fc-06": 0,
+          "fc-07": 245836,
+          "fc-08": 121851,
+          "fc-09": 367687,
+          "fc-10": 8,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580353974/202003149349301730/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 4,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 27,
+          "dgTotal": 9,
+          "fcTotal": 4,
+          "psTotal": 14
+      },
+      {
+          "id": "north-georgia-emc",
+          "name": "North Georgia",
+          "url": "https://www.ngemc.com",
+          "counties": "catoosa-county, chattooga-county, floyd-county, gordon-county, murray-county, walker-county, whitfield-county",
+          "serviceMap": "https://www.ngemc.com/AboutUs",
+          "customers": "103000",
+          "byLaws": "https://www.ngemc.com/Bylaws",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 4,
+          "dg-04": 2,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 4,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 4,
+          "dg-14": 2,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 49053,
+          "fc-03": 8,
+          "fc-04": 11733,
+          "fc-05": 24,
+          "fc-06": 6,
+          "fc-07": 254328,
+          "fc-08": 46075,
+          "fc-09": 300403,
+          "fc-10": 6,
+          "fc-11": 3,
+          "fc-12": 4,
+          "fc-13": 2018,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580370240/201943449349300409/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 2,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 47,
+          "dgTotal": 22,
+          "fcTotal": 13,
+          "psTotal": 12
+      },
+      {
+          "id": "ocmulgee-emc",
+          "name": "Ocmulgee EMC",
+          "url": "https://ocmulgeeemc.com",
+          "counties": "dodge-county, bleckley-county, laurens-county, pulaski-county, telfair-county",
+          "serviceMap": "https://ocmulgeeemc.com/about-us/",
+          "customers": "6800",
+          "byLaws": "",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 0,
+          "dg-11": 2,
+          "dg-12": 2,
+          "dg-13": 0,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 40731,
+          "fc-03": 0,
+          "fc-04": 15847,
+          "fc-05": 39,
+          "fc-06": 6,
+          "fc-07": 127597,
+          "fc-08": 86428,
+          "fc-09": 214025,
+          "fc-10": 5,
+          "fc-11": 6,
+          "fc-12": 4,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580372515/202101349349306180/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 0,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 4,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 0,
+          "Total": 23,
+          "dgTotal": 4,
+          "fcTotal": 13,
+          "psTotal": 6
+      },
+      {
+          "id": "oconee-emc",
+          "name": "Oconee EMC",
+          "url": "https://www.oconeeemc.com/",
+          "counties": "baldwin-county, bibb-county, bleckley-county, dodge-county, laurens-county, twiggs-county, wilkinson-county",
+          "serviceMap": "Not available",
+          "customers": "8000",
+          "byLaws": "https://www.oconeeemc.com/residential-member-guide",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 2,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 2,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 42374,
+          "fc-03": 7,
+          "fc-04": 7843,
+          "fc-05": 19,
+          "fc-06": 6,
+          "fc-07": 171975,
+          "fc-08": 55098,
+          "fc-09": 227073,
+          "fc-10": 5,
+          "fc-11": 3,
+          "fc-12": 0,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580372535/202120659349300007/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 0,
+          "Total": 18,
+          "dgTotal": 5,
+          "fcTotal": 9,
+          "psTotal": 4
+      },
+      {
+          "id": "okefenoke-remc",
+          "name": "Okefenoke EMC",
+          "url": "https://www.oremc.com/",
+          "counties": "brantley-county, camden-county, charlton-county, glynn-county, ware-county, wayne-county",
+          "serviceMap": "https://www.oremc.com/service-area",
+          "customers": "37000",
+          "byLaws": "https://www.oremc.com/pdfs/Corporate%20Bylaws.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 2,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 2,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 42697,
+          "fc-03": 9,
+          "fc-04": 21713,
+          "fc-05": 51,
+          "fc-06": 0,
+          "fc-07": 241284,
+          "fc-08": 75689,
+          "fc-09": 316973,
+          "fc-10": 7,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580373327/202132639349301103/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 0,
+          "ps-04": 2,
+          "ps-05": 4,
+          "ps-06": 2,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 2,
+          "ps-11": 4,
+          "Total": 30,
+          "dgTotal": 10,
+          "fcTotal": 4,
+          "psTotal": 16
+      },
+      {
+          "id": "planters-emc",
+          "name": "Planters EMC",
+          "url": "https://plantersemc.com",
+          "counties": "burke-county, jenkins-county, screven-county, bulloch-county, effingham-county, emanuel-county, richmond-county",
+          "serviceMap": "http://162.247.80.215/omswebmap/OMSWebMap.htm?clientKey=undefined",
+          "customers": "12850",
+          "byLaws": "https://www.plantersemc.com/legal-information",
+          "": "",
+          "dg-01": 2,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 4,
+          "dg-10": 4,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 44201,
+          "fc-03": 9,
+          "fc-04": 12557,
+          "fc-05": 28,
+          "fc-06": 6,
+          "fc-07": 296258,
+          "fc-08": 98375,
+          "fc-09": 394633,
+          "fc-10": 9,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580388085/202120609349300807/full",
+          "ps-01": 2,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 2,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 2,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 39,
+          "dgTotal": 13,
+          "fcTotal": 10,
+          "psTotal": 16
+      },
+      {
+          "id": "rayle-emc",
+          "name": "Rayle EMC",
+          "url": "http://www.rayleemc.com",
+          "counties": "oglethorpe-county, wilkes-county, lincoln-county, taliaferro-county, hancock-county, greene-county, morgan-county, oconee-county, madison-county, clarke-county",
+          "serviceMap": "http://www.rayleemc.com",
+          "customers": "16000",
+          "byLaws": "http://www.rayleemc.com/index.php/download/bylaws/",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 4,
+          "dg-04": 2,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 4,
+          "dg-10": 4,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 51509,
+          "fc-03": 9,
+          "fc-04": 11215,
+          "fc-05": 22,
+          "fc-06": 6,
+          "fc-07": 165362,
+          "fc-08": 61270,
+          "fc-09": 226632,
+          "fc-10": 4,
+          "fc-11": 6,
+          "fc-12": 4,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580398354/202102289349300210/full",
+          "ps-01": 2,
+          "ps-02": 4,
+          "ps-03": 0,
+          "ps-04": 2,
+          "ps-05": 1,
+          "ps-06": 4,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 51,
+          "dgTotal": 18,
+          "fcTotal": 16,
+          "psTotal": 17
+      },
+      {
+          "id": "satilla-remc",
+          "name": "Satilla Rural Electric Membership Corporation",
+          "url": "https://www.satillaemc.com",
+          "counties": "ware-county, wayne-county, bacon-county, jeffdavis-county, coffee-county, appling-county, atkinson-county, pierce-county",
+          "serviceMap": "http://outageviewer.satillaemc.com:82",
+          "customers": "36000",
+          "byLaws": "https://www.satillaemc.com/uploads/files/b8/00/b800fb15054319176e9a378aab949ff0.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 2,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 39847,
+          "fc-03": 8,
+          "fc-04": 17667,
+          "fc-05": 44,
+          "fc-06": 6,
+          "fc-07": 234893,
+          "fc-08": 79388,
+          "fc-09": 314281,
+          "fc-10": 8,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580417350/202013109349301121/full",
+          "ps-01": 2,
+          "ps-02": 4,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 1,
+          "ps-06": 4,
+          "ps-07": 4,
+          "ps-08": 4,
+          "ps-09": 0,
+          "ps-10": 2,
+          "ps-11": 2,
+          "Total": 46,
+          "dgTotal": 9,
+          "fcTotal": 10,
+          "psTotal": 27
+      },
+      {
+          "id": "sawnee-emc",
+          "name": "Sawnee EMC",
+          "url": "https://www.sawnee.com",
+          "counties": "forsyth-county, fulton-county, dawson-county, lumpkin-county, cherokee-county, hall-county, gwinnett-county",
+          "serviceMap": "https://www.sawnee.com/service-area",
+          "customers": "192553",
+          "byLaws": "https://file.sawnee.com/web-docs/library/Sawnee-EMC-Bylaws-08-19-2022.pdf",
+          "": "",
+          "dg-01": 2,
+          "dg-02": 2,
+          "dg-03": 4,
+          "dg-04": 2,
+          "dg-05": 2,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 76529,
+          "fc-03": 9,
+          "fc-04": 29968,
+          "fc-05": 39,
+          "fc-06": 6,
+          "fc-07": 2403993,
+          "fc-08": 111539,
+          "fc-09": 2515532,
+          "fc-10": 31,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580246393/202121139349300702/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 1,
+          "ps-06": 2,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 2,
+          "ps-11": 4,
+          "Total": 45,
+          "dgTotal": 20,
+          "fcTotal": 10,
+          "psTotal": 15
+      },
+      {
+          "id": "slash-pine-emc",
+          "name": "Slash Pines EMC",
+          "url": "https://www.slashpineemc.com",
+          "counties": "atkinson-county, clinch-county, lanier-county, echols-county, ware-county, berrien-county, lowndes-county, charlton-county",
+          "serviceMap": "https://www.slashpineemc.com/about-us",
+          "customers": "6000",
+          "byLaws": "None",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 0,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 0,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 39893,
+          "fc-03": 9,
+          "fc-04": 21597,
+          "fc-05": 54,
+          "fc-06": 0,
+          "fc-07": 184851,
+          "fc-08": 35562,
+          "fc-09": 220413,
+          "fc-10": 6,
+          "fc-11": 3,
+          "fc-12": 0,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580428892/202101469349300210/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 0,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 0,
+          "Total": 5,
+          "dgTotal": 2,
+          "fcTotal": 3,
+          "psTotal": 0
+      },
+      {
+          "id": "snapping-shoals-emc",
+          "name": "Snapping Shoals EMC",
+          "url": "https://www.ssemc.com",
+          "counties": "newton-county, henry-county, rockdale-county, dekalb-county, butts-county, walton-county, jasper-county, morgan-county",
+          "serviceMap": "Not available",
+          "customers": "99000",
+          "byLaws": "https://www.ssemc.com/sites/default/files/documents/memberhandbook.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 2,
+          "dg-07": 1,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 2,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 61595,
+          "fc-03": 11,
+          "fc-04": 27268,
+          "fc-05": 44,
+          "fc-06": 6,
+          "fc-07": 588605,
+          "fc-08": 38589,
+          "fc-09": 627194,
+          "fc-10": 10,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580433463/202003169349303580/full",
+          "ps-01": 2,
+          "ps-02": 2,
+          "ps-03": 0,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 2,
+          "ps-07": 2,
+          "ps-08": 0,
+          "ps-09": 2,
+          "ps-10": 2,
+          "ps-11": 0,
+          "Total": 39,
+          "dgTotal": 15,
+          "fcTotal": 10,
+          "psTotal": 14
+      },
+      {
+          "id": "southern-rivers-energy",
+          "name": "Southern Rivers Energy",
+          "url": "https://southernriversenergy.com",
+          "counties": "bibb-county, crawford-county, lamar-county, meriwether-county, monroe-county, pike-county, upson-county",
+          "serviceMap": "Not available",
+          "customers": "15000",
+          "byLaws": "https://southernriversenergy.com/sites/southernriversenergy/files/documents/SRE%20Bylaws%20Revision%208.25.18.20_0.pdf",
+          "": "",
+          "dg-01": 2,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 2,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 49705,
+          "fc-03": 9,
+          "fc-04": 13364,
+          "fc-05": 27,
+          "fc-06": 6,
+          "fc-07": 306992,
+          "fc-08": 84529,
+          "fc-09": 391521,
+          "fc-10": 8,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580319365/202142009349300204/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 1,
+          "ps-06": 2,
+          "ps-07": 2,
+          "ps-08": 2,
+          "ps-09": 2,
+          "ps-10": 2,
+          "ps-11": 4,
+          "Total": 37,
+          "dgTotal": 8,
+          "fcTotal": 10,
+          "psTotal": 19
+      },
+      {
+          "id": "sumter-emc",
+          "name": "Sumter EMC",
+          "url": "https://www.sumteremc.com",
+          "counties": "chattahoochee-county, dougherty-county, lee-county, marion-county, quitman-county, randolph-county, schley-county, steward-county, sumter-county, terrell-county, webster-county",
+          "serviceMap": "https://outage.sumteremc.com/omswebmap/OMSWebMap.htm?clientKey=undefined",
+          "customers": "20605",
+          "byLaws": "Not online",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 2,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 3,
+          "dg-14": 2,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 41681,
+          "fc-03": 11,
+          "fc-04": 21626,
+          "fc-05": 52,
+          "fc-06": 0,
+          "fc-07": 1026167,
+          "fc-08": 55574,
+          "fc-09": 1081741,
+          "fc-10": 26,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580452284/202100859349301310/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 0,
+          "ps-04": 2,
+          "ps-05": 1,
+          "ps-06": 2,
+          "ps-07": 4,
+          "ps-08": 2,
+          "ps-09": 0,
+          "ps-10": 2,
+          "ps-11": 4,
+          "Total": 32,
+          "dgTotal": 9,
+          "fcTotal": 4,
+          "psTotal": 19
+      },
+      {
+          "id": "three-notch-emc",
+          "name": "Three Notch EMC",
+          "url": "http://www.threenotchemc.com",
+          "counties": "decatur-county, early-county, miller-county, seminole-county",
+          "serviceMap": "Not available",
+          "customers": "8252",
+          "byLaws": "Not online",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 2,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 0,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 0,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 40109,
+          "fc-03": 9,
+          "fc-04": 13182,
+          "fc-05": 33,
+          "fc-06": 6,
+          "fc-07": 200324,
+          "fc-08": 64220,
+          "fc-09": 264544,
+          "fc-10": 7,
+          "fc-11": 3,
+          "fc-12": 0,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580462070/202021569349300847/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 0,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 14,
+          "dgTotal": 2,
+          "fcTotal": 6,
+          "psTotal": 6
+      },
+      {
+          "id": "tri-county-emc",
+          "name": "Tri County EMC",
+          "url": "https://www.tri-countyemc.com",
+          "counties": "jones-county, bibb-county, jasper-county, morgan-county, putnam-county, baldwin-county, wilkinson-county, twiggs-county",
+          "serviceMap": "https://www.tri-countyemc.com/rightofway.cms",
+          "customers": "22000",
+          "byLaws": "https://www.tri-countyemc.com/skins/userfiles/files/Bylaws/TCEMC%20Bylaws%20Revised%202020_Final.pdf",
+          "": "",
+          "dg-01": 4,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 2,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 2,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 3,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 51372,
+          "fc-03": 9,
+          "fc-04": 12094,
+          "fc-05": 24,
+          "fc-06": 6,
+          "fc-07": 236667,
+          "fc-08": 52257,
+          "fc-09": 288924,
+          "fc-10": 6,
+          "fc-11": 3,
+          "fc-12": 0,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580465263/202102259349300040/full",
+          "ps-01": 0,
+          "ps-02": 4,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 1,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 4,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 43,
+          "dgTotal": 17,
+          "fcTotal": 9,
+          "psTotal": 17
+      },
+      {
+          "id": "tri-state-emc",
+          "name": "Tri-State EMC",
+          "url": "https://www.tsemc.net",
+          "counties": "fannin-county, polk county tn & cheokee county nc-county",
+          "serviceMap": "Not available",
+          "customers": "18000",
+          "byLaws": "https://www.tsemc.net/wp-content/uploads/2019/04/Tri-State-Bylaws-Arpil-2008.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 0,
+          "fc-01": 0,
+          "fc-02": 46028,
+          "fc-03": 7,
+          "fc-04": 2425,
+          "fc-05": 5,
+          "fc-06": 6,
+          "fc-07": 178446,
+          "fc-08": 87774,
+          "fc-09": 266220,
+          "fc-10": 6,
+          "fc-11": 3,
+          "fc-12": 0,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/620459672/202012809349301401/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 2,
+          "ps-04": 2,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 0,
+          "ps-08": 0,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 22,
+          "dgTotal": 5,
+          "fcTotal": 9,
+          "psTotal": 8
+      },
+      {
+          "id": "upson-emc",
+          "name": "Upson EMC",
+          "url": "https://www.upsonemc.com/Upson%20EMC%20Home.htm",
+          "counties": "crawford-county, meriwether-county, pike-county, talbot-county, taylor-county, upson-county",
+          "serviceMap": "https://www.upsonemc.com/Upson%20EMC%20By-Laws.pdf",
+          "customers": "6800",
+          "byLaws": "https://www.upsonemc.com/Upson%20EMC%20By-Laws.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 0,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 0,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 44103,
+          "fc-03": 7,
+          "fc-04": 12516,
+          "fc-05": 28,
+          "fc-06": 6,
+          "fc-07": 212831,
+          "fc-08": 46371,
+          "fc-09": 259202,
+          "fc-10": 6,
+          "fc-11": 3,
+          "fc-12": 4,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580470783/202012759349301011/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 0,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 2,
+          "ps-08": 0,
+          "ps-09": 2,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 28,
+          "dgTotal": 7,
+          "fcTotal": 13,
+          "psTotal": 8
+      },
+      {
+          "id": "walton-emc",
+          "name": "Walton EMC",
+          "url": "https://www.waltonemc.com",
+          "counties": "clarke-county, barrow-county, dekalb-county, grenne-county, gwinnett-county, morgan-county, newton-county, oconee-county, rockdale-county, walton-county",
+          "serviceMap": "https://www.waltonemc.com/about/service-area/",
+          "customers": "137830",
+          "byLaws": "https://www.waltonemc.com/wp-content/uploads/2021/09/Bylaws-Rev_June_2021.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 1,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 65796,
+          "fc-03": 9,
+          "fc-04": 25890,
+          "fc-05": 39,
+          "fc-06": 6,
+          "fc-07": 636035,
+          "fc-08": 160517,
+          "fc-09": 796552,
+          "fc-10": 12,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2019,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580477163/202013169349305966/full",
+          "ps-01": 0,
+          "ps-02": 2,
+          "ps-03": 0,
+          "ps-04": 0,
+          "ps-05": 1,
+          "ps-06": 2,
+          "ps-07": 4,
+          "ps-08": 2,
+          "ps-09": 2,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 37,
+          "dgTotal": 10,
+          "fcTotal": 10,
+          "psTotal": 17
+      },
+      {
+          "id": "washington-emc",
+          "name": "Washington EMC",
+          "url": "https://www.washingtonemc.com",
+          "counties": "baldwin-county, emanuel-county, glasscock-county, hancock-county, jefferson-county, johnson-county, laurens-county, warren-county, washinton-county, wilkinson-county",
+          "serviceMap": "https://www.washingtonemc.com/your-cooperative/service-map",
+          "customers": "12179",
+          "byLaws": "https://www.washingtonemc.com/content/userfiles/files/bylaws_2016%20web.pdf",
+          "": "",
+          "dg-01": 0,
+          "dg-02": 0,
+          "dg-03": 0,
+          "dg-04": 0,
+          "dg-05": 0,
+          "dg-06": 1,
+          "dg-07": 0,
+          "dg-08": 0,
+          "dg-09": 0,
+          "dg-10": 4,
+          "dg-11": 2,
+          "dg-12": 0,
+          "dg-13": 1,
+          "dg-14": 0,
+          "dg-15": 2,
+          "fc-01": 0,
+          "fc-02": 39454,
+          "fc-03": 7,
+          "fc-04": 14837,
+          "fc-05": 38,
+          "fc-06": 6,
+          "fc-07": 227600,
+          "fc-08": 91855,
+          "fc-09": 319455,
+          "fc-10": 8,
+          "fc-11": 0,
+          "fc-12": 4,
+          "fc-13": 2020,
+          "fc-14": "https://projects.propublica.org/nonprofits/organizations/580478785/202121269349301232/full",
+          "ps-01": 0,
+          "ps-02": 0,
+          "ps-03": 0,
+          "ps-04": 0,
+          "ps-05": 0,
+          "ps-06": 0,
+          "ps-07": 2,
+          "ps-08": 2,
+          "ps-09": 0,
+          "ps-10": 0,
+          "ps-11": 4,
+          "Total": 28,
+          "dgTotal": 10,
+          "fcTotal": 10,
+          "psTotal": 8
+      }
+    ]
+  },
+  {
+    "key": "questions",
+    "data": [
+      {
+        "id": "dg-01",
+        "category": "Democratic Governance",
+        "question": "Meetings - Open Attendance",
+        "description": "Monthly board meetings are open for member-owners to attend without asking permission and this is clearly stated in the bylaws.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Open and stated"
+           },
+           {
+              "score": 2,
+              "value": "Open but not clearly stated"
+           },
+           {
+              "score": 0,
+              "value": "Neither open nor stated"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-02",
+        "category": "Democratic Governance",
+        "question": "Meetings - Speaking Permission",
+        "description": "Member-owners may speak at the monthly meetings without requesting permission in advance.",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-03",
+        "category": "Democratic Governance",
+        "question": "Meetings - Calendar/Agenda",
+        "description": "Board meeting dates, times, location, and agenda are available online.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Yes"
+           },
+           {
+              "score": 2,
+              "value": "Meeting times but no agenda"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-04",
+        "category": "Democratic Governance",
+        "question": "Meetings - Minutes",
+        "description": "Detailed meeting minutes for each board meeting are available on the EMC website.",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-05",
+        "category": "Democratic Governance",
+        "question": "Board - Contact Info",
+        "description": "Contact info (phone and/or email) for Board Directors is available on the EMC website.",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-06",
+        "category": "Democratic Governance",
+        "question": "Board - Demographics",
+        "description": "Board pictures are displayed on the website and they are demographically diverse in terms of age; gender; and racial/ethnic background.",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 1,
+              "value": "Partial credit"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-07",
+        "category": "Democratic Governance",
+        "question": "Board - Diversity Plan",
+        "description": "The EMC has an explicit and appropriate Diversity & Equity plan that includes measures to assess and improve Board representation, develop a pipeline of diverse leadership (Leadership Academy), track the equitable distribution of member benefits, and meet the needs of its most vulnerable customers.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Published and appropriate"
+           },
+           {
+              "score": 2,
+              "value": "Published but insufficient"
+           },
+           {
+              "score": 1,
+              "value": "Have one, but not published online"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-08",
+        "category": "Democratic Governance",
+        "question": "Board - Term Limits",
+        "description": "The Board Directors are limited to a total of 6 years or less on the Board in the bylaws or in an EMC policy.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Yes"
+           },
+           {
+              "score": 2,
+              "value": "Yes, but not appropriate"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-09",
+        "category": "Democratic Governance",
+        "question": "Bylaws - Amendments",
+        "description": "Bylaws explicitly say member-owners can propose amendments to the bylaws and that all bylaw amendments require a vote by the member-ownership before they can be approved.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Yes"
+           },
+           {
+              "score": 2,
+              "value": "Can propose but there are limits"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-10",
+        "category": "Democratic Governance",
+        "question": "Bylaws - Availability",
+        "description": "The bylaws are posted online and are also accessible by other means upon request.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Online and accessible by other means"
+           },
+           {
+              "score": 2,
+              "value": "Online but not accessible by other means"
+           },
+           {
+              "score": 0,
+              "value": "Not accessible"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-11",
+        "category": "Democratic Governance",
+        "question": "Bylaws - Service Territories",
+        "description": "Service territory boundaries are explicitly outlined and publicly available.",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-12",
+        "category": "Democratic Governance",
+        "question": "Membership Info Availability to Board Candidates",
+        "description": "Contact info for all members is available upon request, without exception, to qualified Board candidates for use in their election campaign.",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-13",
+        "category": "Democratic Governance",
+        "question": "Voting - Accessible",
+        "description": "Member-owners can vote for the Board of Directors in person, online, by early voting, AND by mail.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "All of these"
+           },
+           {
+              "score": 3,
+              "value": "3 of these"
+           },
+           {
+              "score": 2,
+              "value": "2 of these"
+           },
+           {
+              "score": 1,
+              "value": "1 of these"
+           },
+           {
+              "score": 0,
+              "value": "None of these"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-14",
+        "category": "Democratic Governance",
+        "question": "Voting - Oversight",
+        "description": "The EMC uses an independent third party to verify the voting results.",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "dg-15",
+        "category": "Democratic Governance",
+        "question": "Voting - Member Proxies",
+        "description": "Board Directors should NOT be able to use member proxies to vote.",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Not able"
+           },
+           {
+              "score": 0,
+              "value": "Are able"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "fc-01",
+        "category": "Finances & Compensation",
+        "question": "Transparency of Financial Information",
+        "description": "990s and annual financial reports should be posted on the EMC website. (The 990 is the form used by non-profit organizations to file financial information with the Internal Revenue Service (IRS) in compliance with tax law. Making these available for review by member-owners is the first step to financial transparency).",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "fc-02",
+        "category": "Finances & Compensation",
+        "question": "Median Household Income (MHI) for GA Counties Served",
+        "description": "Average of the MHIs for GA Counties Served",
+        "highestscore": "neutral",
+        "scoresys": [],
+        "scoreunit": "USD"
+     },
+      {
+        "id": "fc-03",
+        "category": "Finances & Compensation",
+        "question": "Board Directors",
+        "description": "Number of Board Directors that serve the EMC",
+        "highestscore": "neutral",
+        "scoresys": [],
+        "scoreunit": "Directors"
+     },
+      {
+        "id": "fc-04",
+        "category": "Finances & Compensation",
+        "question": "Average Annual Compensation for Board Directors",
+        "description": "Average Annual Compensation for Board Directors. Serving as a Board Director is part-time work.  Most EMCs pay a per diem rate for board work; so Board Directors' annual compensation is the total of those days worked and will vary from Director to Director based on the number of days logged.",
+        "highestscore": "neutral",
+        "scoresys": [],
+        "scoreunit": "USD"
+     },
+      {
+        "id": "fc-05",
+        "category": "Finances & Compensation",
+        "question": "Board Compensation Score (Average Compensation/MHI for Counties Served)",
+        "description": "The average board compensation (given that it is part-time) should be proportionate with average household incomes in the counties served. We measured this by dividing the average pay for Board Members by the average Median Household Income in the counties served. We consider a proportionate Board Compensation to be less than 50% of average MHI.",
+        "highestscore": 6,
+        "scoresys": [],
+        "scoreunit": "%"
+     },
+      {
+        "id": "fc-07",
+        "category": "Finances & Compensation",
+        "question": "Salary of Highest Paid Employee (HPE)",
+        "description": "Salary of Highest Paid Employee (CEO, CFO, COO, President, Form 990, Section VII, Column D)",
+        "highestscore": "neutral",
+        "scoresys": [],
+        "scoreunit": "USD"
+     },
+      {
+        "id": "fc-08",
+        "category": "Finances & Compensation",
+        "question": "HPE - Other Compensation",
+        "description": "HPE - Other Compensation from the Organization and Related Organizations (Form 990, Section 7, Column F)",
+        "highestscore": "neutral",
+        "scoresys": [],
+        "scoreunit": "USD"
+     },
+      {
+        "id": "fc-09",
+        "category": "Finances & Compensation",
+        "question": "HPE - Total Income",
+        "description": "This is a total of the HPE Salary and the HPE Other Compensation (Form 990; Section VII; Column D+Column F)",
+        "highestscore": "neutral",
+        "scoresys": [],
+        "scoreunit": "USD"
+     },
+      {
+        "id": "fc-10",
+        "category": "Finances & Compensation",
+        "question": "Salary of the Highest Paid Employee (HPE) Score (Total Income / MHI for Counties Served)",
+        "description": "The highest paid employee's annual salary should be proportionate to the average MHI in the counties served. We consider proportionate to be less than 5 times the average MHI of the GA counties served. Partial credit is awarded if the HPE Salary is less than 7 times the MHI.",
+        "highestscore": 6,
+        "scoresys": [],
+        "scoreunit": "times"
+     },
+      {
+        "id": "fc-12",
+        "category": "Finances & Compensation",
+        "question": "Capital Credits",
+        "description": "Capital credits are money received by EMC member-owners that represents their individual portion of the co-op's profits. They can be either a direct payment or a credit on their bill. Decisions about whether to return credits should be made annually by the board based on the company’s financial condition. If the co-op is in good financial standing credits should be returned annually.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Regularly"
+           },
+           {
+              "score": 2,
+              "value": "Sometimes"
+           },
+           {
+              "score": 0,
+              "value": "Not in last 10 years"
+           }
+        ],
+        "scoreunit": ""
+     },
+     {
+        "id": "fc-13",
+        "category": "Finances & Compensation",
+        "question": "901 Year",
+        "description": "Year of 990 used for compensation information",
+        "highestscore": "neutral",
+        "scoresys": [],
+        "scoreunit": ""
+     },
+     {
+        "id": "fc-14",
+        "category": "Finances & Compensation",
+        "question": "901 Link",
+        "description": "Online link for 990",
+        "highestscore": "neutral",
+        "scoresys": [],
+        "scoreunit": ""
+     },
+      {
+        "id": "ps-01",
+        "category": "Member Programs",
+        "question": "Emission Reduction Goals",
+        "description": "The EMC has set goal dates to reduce carbon emissions caused by the burning of fossil fuels in its energy portfolio. ",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Net zero"
+           },
+           {
+              "score": 3,
+              "value": "75% reducation"
+           },
+           {
+              "score": 2,
+              "value": "50% reduction"
+           },
+           {
+              "score": 0,
+              "value": "No target goals"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "ps-02",
+        "category": "Member Programs",
+        "question": "Community Solar",
+        "description": "The EMC offers a cooperative solar program and offers subsidies for low-income participants.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Has a community solar program + subsidy"
+           },
+           {
+              "score": 2,
+              "value": "Has CSP but no subsidy program"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "ps-03",
+        "category": "Member Programs",
+        "question": "Distributed Generation Policy",
+        "description": "The EMC's interconnection / distributed generation policy is available online. Distributed generation is when a member-owner generates electricity from their own sources (like solar panels) in addition to or alongside EMC energy resources. Often this means that the solar producer is sometimes selling unused electricity it produces back to the EMC and sometimes buying electricity from the EMC. A distributed generation policy will determine any fees associated with this interconnection and also set the rates at which the EMC will buy electricity from the user. ",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "ps-04",
+        "category": "Member Programs",
+        "question": "Customer Service - Outages",
+        "description": "An online and telephone response system should communicate information and updates about electricity and broadband outages with estimates of restoration times.",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "ps-05",
+        "category": "Member Programs",
+        "question": "Energy Efficiency Financing",
+        "description": "The EMC should have programs to help finance energy efficiency updates, such as an inclusive Pay As You Save (PAYS) program, a regular loan-based on-bill program, rebates).",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "PAYS + rebates and/or regular on-based bill program"
+           },
+           {
+              "score": 1,
+              "value": "Rebates and/or regular on-bill loan-based program"
+           },
+           {
+              "score": 0,
+              "value": "None"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "ps-06",
+        "category": "Member Programs",
+        "question": "Humane Disconnection Policy",
+        "description": "The EMC should have a humane disconnection policy that includes payment plan options, temperature limits, medical exceptions, and non-excessive reconnect fees (for example there should not be fees for *both* disconnection and reconnection).",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "All of these"
+           },
+           {
+              "score": 3,
+              "value": "3 of these"
+           },
+           {
+              "score": 2,
+              "value": "2 of these"
+           },
+           {
+              "score": 1,
+              "value": "1 of these"
+           },
+           {
+              "score": 0,
+              "value": "None of these"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "ps-07",
+        "category": "Member Programs",
+        "question": "Fixed Fee Burden",
+        "description": "The monthly fixed fee ('basic facilities or customer charge') charged to residential member-owners should be less than $15/month and should be shown as a separate line item on the bill.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Less than $15 and shown as separate line item"
+           },
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "ps-08",
+        "category": "Member Programs",
+        "question": "Broadband Internet Access",
+        "description": "The EMC should offer broadband internet service to all customers currently unserved in its territory, or it should be actively developing such service, or have applied for a federal grant to begin such development.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Yes"
+           },
+           {
+              "score": 3,
+              "value": "For some + actively developing"
+           },
+           {
+              "score": 2,
+              "value": "No but actively developing"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "ps-09",
+        "category": "Member Programs",
+        "question": "Pesticide Spraying Opt-Out",
+        "description": "Member-owners should be able to opt out of EMC pesticide spraying through a Right-of-Way policy.",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "ps-10",
+        "category": "Member Programs",
+        "question": "Medical Priority Registration",
+        "description": "The EMC website should instruct member-owners how to register for medical priority status. This status would make their households a priority for electricity restoration in the case of outages in order to keep medical equipment functioning.",
+        "highestscore": 2,
+        "scoresys": [
+           {
+              "score": 2,
+              "value": "Yes"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     },
+      {
+        "id": "ps-11",
+        "category": "Member Programs",
+        "question": "Member Communications",
+        "description": "The EMC distributes a quarterly newsletter with information on member benefits, scholarships, programs, education, and energy efficiency advice.",
+        "highestscore": 4,
+        "scoresys": [
+           {
+              "score": 4,
+              "value": "Yes"
+           },
+           {
+              "score": 2,
+              "value": "Less often or with partial information"
+           },
+           {
+              "score": 0,
+              "value": "No"
+           }
+        ],
+        "scoreunit": ""
+     }
+    ]
+  },
+  {
+    "key": "counties",
+    "data": [
+      {
+        "name": "Appling County",
+        "id": "appling-county",
+        "white": 0.7148,
+        "black": 0.1841,
+        "income": "$36,155",
+        "population": "18,236",
+        "numofhouseholds": "6,969",
+        "incomestress": 2.3709,
+        "emcs": [
+          {
+            "name": "Satilla REMC",
+            "id": "satilla-remc"
+          }
+        ]
+      },
+      {
+        "name": "Atkinson County",
+        "id": "atkinson-county",
+        "white": 0.6034,
+        "black": 0.129,
+        "income": "$33,834",
+        "population": "8,375",
+        "numofhouseholds": "2,983",
+        "incomestress": 2.7237,
+        "emcs": [
+          {
+            "name": "Satilla REMC",
+            "id": "satilla-remc"
+          },
+          {
+            "name": "Slash Pine EMC",
+            "id": "slash-pine-emc"
+          }
+        ]
+      },
+      {
+        "name": "Bacon County",
+        "id": "bacon-county",
+        "white": 0.7528,
+        "black": 0.1361,
+        "income": "$31,429",
+        "population": "11,096",
+        "numofhouseholds": "4,214",
+        "incomestress": 2.5531,
+        "emcs": [
+          {
+            "name": "Satilla REMC",
+            "id": "satilla-remc"
+          }
+        ]
+      },
+      {
+        "name": "Baker County",
+        "id": "baker-county",
+        "white": 0.5275,
+        "black": 0.3754,
+        "income": "$27,462",
+        "population": "3,451",
+        "numofhouseholds": "1,372",
+        "incomestress": 3.0515,
+        "emcs": [
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          }
+        ]
+      },
+      {
+        "name": "Baldwin County",
+        "id": "baldwin-county",
+        "white": 0.4852,
+        "black": 0.457,
+        "income": "$37,237",
+        "population": "45,720",
+        "numofhouseholds": "16,788",
+        "incomestress": 2.8772,
+        "emcs": [
+          {
+            "name": "Oconee EMC",
+            "id": "oconee-emc"
+          },
+          {
+            "name": "Tri-County EMC",
+            "id": "tri-county-emc"
+          },
+          {
+            "name": "Washington EMC",
+            "id": "washington-emc"
+          }
+        ]
+      },
+      {
+        "name": "Banks County",
+        "id": "banks-county",
+        "white": 0.8787,
+        "black": 0.0263,
+        "income": "$40,455",
+        "population": "18,395",
+        "numofhouseholds": "6,700",
+        "incomestress": 2.1405,
+        "emcs": [
+          {
+            "name": "Hart EMC",
+            "id": "hart-emc"
+          },
+          {
+            "name": "Jackson EMC",
+            "id": "jackson-emc"
+          }
+        ]
+      },
+      {
+        "name": "Barrow County",
+        "id": "barrow-county",
+        "white": 0.7159,
+        "black": 0.1159,
+        "income": "$48,958",
+        "population": "69,367",
+        "numofhouseholds": "23,971",
+        "incomestress": 1.6877,
+        "emcs": [
+          {
+            "name": "Jackson EMC",
+            "id": "jackson-emc"
+          },
+          {
+            "name": "Walton EMC",
+            "id": "walton-emc"
+          }
+        ]
+      },
+      {
+        "name": "Bartow County",
+        "id": "bartow-county",
+        "white": 0.7905,
+        "black": 0.0871,
+        "income": "$49,216",
+        "population": "100,157",
+        "numofhouseholds": "35,782",
+        "incomestress": 1.7852,
+        "emcs": [
+          {
+            "name": "Amicalola EMC",
+            "id": "amicalola-emc"
+          },
+          {
+            "name": "Cobb EMC",
+            "id": "cobb-emc"
+          },
+          {
+            "name": "GreyStone Power Corporation",
+            "id": "greystone-power-corporation"
+          }
+        ]
+      },
+      {
+        "name": "Ben Hill County",
+        "id": "ben-hill-county",
+        "white": 0.6059,
+        "black": 0.3226,
+        "income": "$30,134",
+        "population": "17,634",
+        "numofhouseholds": "6,794",
+        "incomestress": 2.9553,
+        "emcs": [
+          {
+            "name": "Irwin EMC",
+            "id": "irwin-emc"
+          },
+          {
+            "name": "Middle Georgia EMC",
+            "id": "middle-georgia-emc"
+          }
+        ]
+      },
+      {
+        "name": "Berrien County",
+        "id": "berrien-county",
+        "white": 0.8081,
+        "black": 0.1241,
+        "income": "$32,202",
+        "population": "19,286",
+        "numofhouseholds": "7,443",
+        "incomestress": 2.5443,
+        "emcs": [
+          {
+            "name": "Colquitt EMC",
+            "id": "colquitt-emc"
+          },
+          {
+            "name": "Irwin EMC",
+            "id": "irwin-emc"
+          },
+          {
+            "name": "Slash Pine EMC",
+            "id": "slash-pine-emc"
+          }
+        ]
+      },
+      {
+        "name": "Bibb County",
+        "id": "bibb-county",
+        "white": 0.3409,
+        "black": 0.583,
+        "income": "$38,798",
+        "population": "155,547",
+        "numofhouseholds": "60,295",
+        "incomestress": 3.3457,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          },
+          {
+            "name": "Oconee EMC",
+            "id": "oconee-emc"
+          },
+          {
+            "name": "Southern Rivers Energy",
+            "id": "southern-rivers-energy"
+          },
+          {
+            "name": "Tri-County EMC",
+            "id": "tri-county-emc"
+          }
+        ]
+      },
+      {
+        "name": "Bleckley County",
+        "id": "bleckley-county",
+        "white": 0.6551,
+        "black": 0.3006,
+        "income": "$35,661",
+        "population": "13,063",
+        "numofhouseholds": "4,660",
+        "incomestress": 2.3394,
+        "emcs": [
+          {
+            "name": "Ocmulgee EMC",
+            "id": "ocmulgee-emc"
+          },
+          {
+            "name": "Oconee EMC",
+            "id": "oconee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Brantley County",
+        "id": "brantley-county",
+        "white": 0.9199,
+        "black": 0.0349,
+        "income": "$37,343",
+        "population": "18,411",
+        "numofhouseholds": "6,885",
+        "incomestress": 2.6848,
+        "emcs": [
+          {
+            "name": "Okefenoke REMC",
+            "id": "okefenoke-remc"
+          }
+        ]
+      },
+      {
+        "name": "Brooks County",
+        "id": "brooks-county",
+        "white": 0.5654,
+        "black": 0.3665,
+        "income": "$41,309",
+        "population": "16,243",
+        "numofhouseholds": "6,457",
+        "incomestress": 2.7691,
+        "emcs": [
+          {
+            "name": "Colquitt EMC",
+            "id": "colquitt-emc"
+          }
+        ]
+      },
+      {
+        "name": "Bryan County",
+        "id": "bryan-county",
+        "white": 0.7229,
+        "black": 0.1552,
+        "income": "$63,244",
+        "population": "30,233",
+        "numofhouseholds": "10,738",
+        "incomestress": 1.6541,
+        "emcs": [
+          {
+            "name": "Canoochee EMC",
+            "id": "canoochee-emc"
+          },
+          {
+            "name": "Coastal Electric Cooperative",
+            "id": "coastal-electric-cooperative"
+          },
+          {
+            "name": "Excelsior EMC",
+            "id": "excelsior-emc"
+          }
+        ]
+      },
+      {
+        "name": "Bulloch County",
+        "id": "bulloch-county",
+        "white": 0.6065,
+        "black": 0.3041,
+        "income": "$34,327",
+        "population": "70,217",
+        "numofhouseholds": "25,575",
+        "incomestress": 2.5346,
+        "emcs": [
+          {
+            "name": "Excelsior EMC",
+            "id": "excelsior-emc"
+          },
+          {
+            "name": "Planters EMC",
+            "id": "planters-emc"
+          },
+          {
+            "name": "Canoochee EMC",
+            "id": "canoochee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Burke County",
+        "id": "burke-county",
+        "white": 0.5059,
+        "black": 0.4354,
+        "income": "$33,155",
+        "population": "23,316",
+        "numofhouseholds": "8,533",
+        "incomestress": 2.322,
+        "emcs": [
+          {
+            "name": "Jefferson Energy Cooperative",
+            "id": "jefferson-energy-cooperative"
+          },
+          {
+            "name": "Planters EMC",
+            "id": "planters-emc"
+          }
+        ]
+      },
+      {
+        "name": "Butts County",
+        "id": "butts-county",
+        "white": 0.654,
+        "black": 0.2945,
+        "income": "$52,257",
+        "population": "23,655",
+        "numofhouseholds": "7,881",
+        "incomestress": 2.1919,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Snapping Shoals EMC",
+            "id": "snapping-shoals-emc"
+          }
+        ]
+      },
+      {
+        "name": "Calhoun County",
+        "id": "calhoun-county",
+        "white": 0.3261,
+        "black": 0.6035,
+        "income": "$30,522",
+        "population": "6,694",
+        "numofhouseholds": "2,002",
+        "incomestress": 2.7983,
+        "emcs": [
+          {
+            "name": "Diverse Power",
+            "id": "diverse-power"
+          },
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          }
+        ]
+      },
+      {
+        "name": "Camden County",
+        "id": "camden-county",
+        "white": 0.7219,
+        "black": 0.1725,
+        "income": "$49,230",
+        "population": "50,513",
+        "numofhouseholds": "18,047",
+        "incomestress": 1.8403,
+        "emcs": [
+          {
+            "name": "Okefenoke REMC",
+            "id": "okefenoke-remc"
+          }
+        ]
+      },
+      {
+        "name": "Candler County",
+        "id": "candler-county",
+        "white": 0.6108,
+        "black": 0.2403,
+        "income": "$35,828",
+        "population": "10,998",
+        "numofhouseholds": "4,041",
+        "incomestress": 2.7908,
+        "emcs": [
+          {
+            "name": "Canoochee EMC",
+            "id": "canoochee-emc"
+          },
+          {
+            "name": "Excelsior EMC",
+            "id": "excelsior-emc"
+          }
+        ]
+      },
+      {
+        "name": "Carroll County",
+        "id": "carroll-county",
+        "white": 0.701,
+        "black": 0.1867,
+        "income": "$45,559",
+        "population": "110,527",
+        "numofhouseholds": "39,187",
+        "incomestress": 2.0207,
+        "emcs": [
+          {
+            "name": "Carroll EMC",
+            "id": "carroll-emc"
+          },
+          {
+            "name": "GreyStone Power Corporation",
+            "id": "greystone-power-corporation"
+          }
+        ]
+      },
+      {
+        "name": "Catoosa County",
+        "id": "catoosa-county",
+        "white": 0.9148,
+        "black": 0.0207,
+        "income": "$46,544",
+        "population": "63,942",
+        "numofhouseholds": "24,475",
+        "incomestress": 1.787,
+        "emcs": [
+          {
+            "name": "North Georgia EMC",
+            "id": "north-georgia-emc"
+          }
+        ]
+      },
+      {
+        "name": "Charlton County",
+        "id": "charlton-county",
+        "white": 0.7073,
+        "black": 0.1884,
+        "income": "$40,850",
+        "population": "12,171",
+        "numofhouseholds": "3,927",
+        "incomestress": 2.1152,
+        "emcs": [
+          {
+            "name": "Okefenoke REMC",
+            "id": "okefenoke-remc"
+          },
+          {
+            "name": "Slash Pine EMC",
+            "id": "slash-pine-emc"
+          }
+        ]
+      },
+      {
+        "name": "Chatham County",
+        "id": "chatham-county",
+        "white": 0.4528,
+        "black": 0.442,
+        "income": "$44,928",
+        "population": "265,128",
+        "numofhouseholds": "103,038",
+        "incomestress": 2.3517,
+        "emcs": [
+          {
+            "name": "Canoochee EMC",
+            "id": "canoochee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Chattahoochee County",
+        "id": "chattahoochee-county",
+        "white": 0.5785,
+        "black": 0.1975,
+        "income": "$51,089",
+        "population": "11,267",
+        "numofhouseholds": "2,686",
+        "incomestress": 2.0467,
+        "emcs": [
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          },
+          {
+            "name": "Sumter EMC",
+            "id": "sumter-emc"
+          }
+        ]
+      },
+      {
+        "name": "Chattooga County",
+        "id": "chattooga-county",
+        "white": 0.8669,
+        "black": 0.0831,
+        "income": "$32,419",
+        "population": "26,015",
+        "numofhouseholds": "9,548",
+        "incomestress": 2.6366,
+        "emcs": [
+          {
+            "name": "North Georgia EMC",
+            "id": "north-georgia-emc"
+          }
+        ]
+      },
+      {
+        "name": "Cherokee County",
+        "id": "cherokee-county",
+        "white": 0.7894,
+        "black": 0.0642,
+        "income": "$66,320",
+        "population": "214,346",
+        "numofhouseholds": "75,936",
+        "incomestress": 1.2984,
+        "emcs": [
+          {
+            "name": "Amicalola EMC",
+            "id": "amicalola-emc"
+          },
+          {
+            "name": "Cobb EMC",
+            "id": "cobb-emc"
+          },
+          {
+            "name": "Sawnee EMC",
+            "id": "sawnee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Clarke County",
+        "id": "clarke-county",
+        "white": 0.562,
+        "black": 0.2638,
+        "income": "$34,253",
+        "population": "116,714",
+        "numofhouseholds": "45,414",
+        "incomestress": 3.4883,
+        "emcs": [
+          {
+            "name": "Jackson EMC",
+            "id": "jackson-emc"
+          },
+          {
+            "name": "Rayle EMC",
+            "id": "rayle-emc"
+          },
+          {
+            "name": "Walton EMC",
+            "id": "walton-emc"
+          }
+        ]
+      },
+      {
+        "name": "Clay County",
+        "id": "clay-county",
+        "white": 0.3541,
+        "black": 0.6239,
+        "income": "$26,250",
+        "population": "3,183",
+        "numofhouseholds": "1,331",
+        "incomestress": 4.4793,
+        "emcs": [
+          {
+            "name": "Diverse Power",
+            "id": "diverse-power"
+          }
+        ]
+      },
+      {
+        "name": "Clayton County",
+        "id": "clayton-county",
+        "white": 0.1025,
+        "black": 0.6751,
+        "income": "$43,311",
+        "population": "259,424",
+        "numofhouseholds": "90,633",
+        "incomestress": 2.1916,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Coweta-Fayette EMC",
+            "id": "coweta-fayette-emc"
+          }
+        ]
+      },
+      {
+        "name": "Clinch County",
+        "id": "clinch-county",
+        "white": 0.5828,
+        "black": 0.3605,
+        "income": "$31,963",
+        "population": "6,798",
+        "numofhouseholds": "2,572",
+        "incomestress": 4.3205,
+        "emcs": [
+          {
+            "name": "Slash Pine EMC",
+            "id": "slash-pine-emc"
+          }
+        ]
+      },
+      {
+        "name": "Cobb County",
+        "id": "cobb-county",
+        "white": 0.5337,
+        "black": 0.253,
+        "income": "$65,522",
+        "population": "688,078",
+        "numofhouseholds": "260,056",
+        "incomestress": 1.3275,
+        "emcs": [
+          {
+            "name": "Cobb EMC",
+            "id": "cobb-emc"
+          },
+          {
+            "name": "GreyStone Power Corporation",
+            "id": "greystone-power-corporation"
+          }
+        ]
+      },
+      {
+        "name": "Coffee County",
+        "id": "coffee-county",
+        "white": 0.5937,
+        "black": 0.2723,
+        "income": "$35,202",
+        "population": "42,356",
+        "numofhouseholds": "14,817",
+        "incomestress": 2.5072,
+        "emcs": [
+          {
+            "name": "Irwin EMC",
+            "id": "irwin-emc"
+          },
+          {
+            "name": "Satilla REMC",
+            "id": "satilla-remc"
+          }
+        ]
+      },
+      {
+        "name": "Colquitt County",
+        "id": "colquitt-county",
+        "white": 0.5357,
+        "black": 0.2542,
+        "income": "$32,902",
+        "population": "45,498",
+        "numofhouseholds": "16,317",
+        "incomestress": 2.9435,
+        "emcs": [
+          {
+            "name": "Colquitt EMC",
+            "id": "colquitt-emc"
+          },
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          }
+        ]
+      },
+      {
+        "name": "Columbia County",
+        "id": "columbia-county",
+        "white": 0.6974,
+        "black": 0.1646,
+        "income": "$66,333",
+        "population": "124,053",
+        "numofhouseholds": "44,898",
+        "incomestress": 1.2813,
+        "emcs": [
+          {
+            "name": "Jefferson Energy Cooperative",
+            "id": "jefferson-energy-cooperative"
+          }
+        ]
+      },
+      {
+        "name": "Cook County",
+        "id": "cook-county",
+        "white": 0.6548,
+        "black": 0.2608,
+        "income": "$31,390",
+        "population": "17,212",
+        "numofhouseholds": "6,339",
+        "incomestress": 2.5233,
+        "emcs": [
+          {
+            "name": "Colquitt EMC",
+            "id": "colquitt-emc"
+          }
+        ]
+      },
+      {
+        "name": "Coweta County",
+        "id": "coweta-county",
+        "white": 0.736,
+        "black": 0.1586,
+        "income": "$61,550",
+        "population": "127,317",
+        "numofhouseholds": "45,673",
+        "incomestress": 1.375,
+        "emcs": [
+          {
+            "name": "Coweta-Fayette EMC",
+            "id": "coweta-fayette-emc"
+          },
+          {
+            "name": "Diverse Power",
+            "id": "diverse-power"
+          },
+          {
+            "name": "GreyStone Power Corporation",
+            "id": "greystone-power-corporation"
+          }
+        ]
+      },
+      {
+        "name": "Crawford County",
+        "id": "crawford-county",
+        "white": 0.6952,
+        "black": 0.2544,
+        "income": "$37,062",
+        "population": "12,630",
+        "numofhouseholds": "4,822",
+        "incomestress": 2.4834,
+        "emcs": [
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          },
+          {
+            "name": "Southern Rivers Energy",
+            "id": "southern-rivers-energy"
+          },
+          {
+            "name": "Upson EMC",
+            "id": "upson-emc"
+          }
+        ]
+      },
+      {
+        "name": "Crisp County",
+        "id": "crisp-county",
+        "white": 0.5278,
+        "black": 0.4226,
+        "income": "$29,960",
+        "population": "23,439",
+        "numofhouseholds": "9,079",
+        "incomestress": 2.7061,
+        "emcs": []
+      },
+      {
+        "name": "Dade County",
+        "id": "dade-county",
+        "white": 0.9335,
+        "black": 0.0062,
+        "income": "$39,760",
+        "population": "16,633",
+        "numofhouseholds": "6,291",
+        "incomestress": 2.2183,
+        "emcs": []
+      },
+      {
+        "name": "Dawson County",
+        "id": "dawson-county",
+        "white": 0.9206,
+        "black": 0.0104,
+        "income": "$51,128",
+        "population": "22,330",
+        "numofhouseholds": "8,433",
+        "incomestress": 1.4387,
+        "emcs": [
+          {
+            "name": "Amicalola EMC",
+            "id": "amicalola-emc"
+          },
+          {
+            "name": "Sawnee EMC",
+            "id": "sawnee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Decatur County",
+        "id": "decatur-county",
+        "white": 0.5187,
+        "black": 0.391,
+        "income": "$33,297",
+        "population": "27,842",
+        "numofhouseholds": "10,390",
+        "incomestress": 2.4408,
+        "emcs": [
+          {
+            "name": "Grady EMC",
+            "id": "grady-emc"
+          },
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          },
+          {
+            "name": "Three Notch EMC",
+            "id": "three-notch-emc"
+          }
+        ]
+      },
+      {
+        "name": "DeKalb County",
+        "id": "deKalb-county",
+        "white": 0.3301,
+        "black": 0.4847,
+        "income": "$51,349",
+        "population": "691,893",
+        "numofhouseholds": "271,809",
+        "incomestress": 1.6958,
+        "emcs": [
+          {
+            "name": "Snapping Shoals EMC",
+            "id": "snapping-shoals-emc"
+          },
+          {
+            "name": "Walton EMC",
+            "id": "walton-emc"
+          }
+        ]
+      },
+      {
+        "name": "Dodge County",
+        "id": "dodge-county",
+        "white": 0.6759,
+        "black": 0.2681,
+        "income": "$33,580",
+        "population": "21,796",
+        "numofhouseholds": "8,177",
+        "incomestress": 2.5932,
+        "emcs": [
+          {
+            "name": "Little Ocmulgee EMC",
+            "id": "little-ocmulgee-emc"
+          },
+          {
+            "name": "Ocmulgee EMC",
+            "id": "ocmulgee-emc"
+          },
+          {
+            "name": "Oconee EMC",
+            "id": "oconee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Dooly County",
+        "id": "dooly-county",
+        "white": 0.4243,
+        "black": 0.4777,
+        "income": "$31,038",
+        "population": "14,918",
+        "numofhouseholds": "5,286",
+        "incomestress": 2.6256,
+        "emcs": [
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          },
+          {
+            "name": "Middle Georgia EMC",
+            "id": "middle-georgia-emc"
+          }
+        ]
+      },
+      {
+        "name": "Dougherty County",
+        "id": "dougherty-county",
+        "white": 0.2484,
+        "black": 0.693,
+        "income": "$32,435",
+        "population": "94,565",
+        "numofhouseholds": "36,508",
+        "incomestress": 3.1387,
+        "emcs": [
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          },
+          {
+            "name": "Sumter EMC",
+            "id": "sumter-emc"
+          },
+          {
+            "name": "Diverse Power Inc",
+            "id": "diverse-power-inc"
+          }
+        ]
+      },
+      {
+        "name": "Douglas County",
+        "id": "douglas-county",
+        "white": 0.4292,
+        "black": 0.437,
+        "income": "$55,852",
+        "population": "132,403",
+        "numofhouseholds": "46,624",
+        "incomestress": 1.6155,
+        "emcs": [
+          {
+            "name": "GreyStone Power Corporation",
+            "id": "greystone-power-corporation"
+          }
+        ]
+      },
+      {
+        "name": "Early County",
+        "id": "early-county",
+        "white": 0.4748,
+        "black": 0.4972,
+        "income": "$26,928",
+        "population": "11,008",
+        "numofhouseholds": "4,228",
+        "incomestress": 3.2396,
+        "emcs": [
+          {
+            "name": "Diverse Power",
+            "id": "diverse-power"
+          },
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          },
+          {
+            "name": "Three Notch EMC",
+            "id": "three-notch-emc"
+          }
+        ]
+      },
+      {
+        "name": "Echols County",
+        "id": "echols-county",
+        "white": 0.6811,
+        "black": 0.0266,
+        "income": "$32,390",
+        "population": "4,034",
+        "numofhouseholds": "1,329",
+        "incomestress": 2.4465,
+        "emcs": [
+          {
+            "name": "Slash Pine EMC",
+            "id": "slash-pine-emc"
+          }
+        ]
+      },
+      {
+        "name": "Effingham County",
+        "id": "effingham-county",
+        "white": 0.7877,
+        "black": 0.1315,
+        "income": "$56,903",
+        "population": "52,250",
+        "numofhouseholds": "18,092",
+        "incomestress": 1.4936,
+        "emcs": [
+          {
+            "name": "Canoochee EMC",
+            "id": "canoochee-emc"
+          },
+          {
+            "name": "Excelsior EMC",
+            "id": "excelsior-emc"
+          },
+          {
+            "name": "Planters EMC",
+            "id": "planters-emc"
+          }
+        ]
+      },
+      {
+        "name": "Elbert County",
+        "id": "elbert-county",
+        "white": 0.6383,
+        "black": 0.2948,
+        "income": "$30,543",
+        "population": "20,166",
+        "numofhouseholds": "8,063",
+        "incomestress": 2.604,
+        "emcs": [
+          {
+            "name": "Hart EMC",
+            "id": "hart-emc"
+          }
+        ]
+      },
+      {
+        "name": "Emanuel County",
+        "id": "emanuel-county",
+        "white": 0.6353,
+        "black": 0.3093,
+        "income": "$30,205",
+        "population": "22,598",
+        "numofhouseholds": "8,430",
+        "incomestress": 2.6975,
+        "emcs": [
+          {
+            "name": "Canoochee EMC",
+            "id": "canoochee-emc"
+          },
+          {
+            "name": "Excelsior EMC",
+            "id": "excelsior-emc"
+          },
+          {
+            "name": "Jefferson Energy Cooperative",
+            "id": "jefferson-energy-cooperative"
+          },
+          {
+            "name": "Planters EMC",
+            "id": "planters-emc"
+          },
+          {
+            "name": "Washington EMC",
+            "id": "washington-emc"
+          }
+        ]
+      },
+      {
+        "name": "Evans County",
+        "id": "evans-county",
+        "white": 0.5698,
+        "black": 0.2817,
+        "income": "$40,796",
+        "population": "11,000",
+        "numofhouseholds": "4,033",
+        "incomestress": 2.4776,
+        "emcs": [
+          {
+            "name": "Canoochee EMC",
+            "id": "canoochee-emc"
+          },
+          {
+            "name": "Excelsior EMC",
+            "id": "excelsior-emc"
+          }
+        ]
+      },
+      {
+        "name": "Fannin County",
+        "id": "fannin-county",
+        "white": 0.9528,
+        "black": 0.002,
+        "income": "$34,145",
+        "population": "23,682",
+        "numofhouseholds": "10,187",
+        "incomestress": 2.0943,
+        "emcs": [
+          {
+            "name": "Amicalola EMC",
+            "id": "amicalola-emc"
+          },
+          {
+            "name": "Blue Ridge Mountain EMC",
+            "id": "blue-ridge-mountain-emc"
+          },
+          {
+            "name": "Tri-State EMC",
+            "id": "tri-state-emc"
+          }
+        ]
+      },
+      {
+        "name": "Fayette County",
+        "id": "fayette-county",
+        "white": 0.6335,
+        "black": 0.2168,
+        "income": "$82,216",
+        "population": "106,567",
+        "numofhouseholds": "38,167",
+        "incomestress": 1.1177,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Coweta-Fayette EMC",
+            "id": "coweta-fayette-emc"
+          },
+          {
+            "name": "GreyStone Power Corporation",
+            "id": "greystone-power-corporation"
+          }
+        ]
+      },
+      {
+        "name": "Floyd County",
+        "id": "floyd-county",
+        "white": 0.6997,
+        "black": 0.1529,
+        "income": "$41,066",
+        "population": "96,317",
+        "numofhouseholds": "35,930",
+        "incomestress": 2.3033,
+        "emcs": [
+          {
+            "name": "Carroll EMC",
+            "id": "carroll-emc"
+          },
+          {
+            "name": "North Georgia EMC",
+            "id": "north-georgia-emc"
+          }
+        ]
+      },
+      {
+        "name": "Forsyth County",
+        "id": "forsyth-county",
+        "white": 0.7381,
+        "black": 0.0321,
+        "income": "$56,709",
+        "population": "244,252",
+        "numofhouseholds": "76,753",
+        "incomestress": 1.0321,
+        "emcs": [
+          {
+            "name": "Amicalola EMC",
+            "id": "amicalola-emc"
+          },
+          {
+            "name": "Sawnee EMC",
+            "id": "sawnee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Franklin County",
+        "id": "franklin-county",
+        "white": 0.8374,
+        "black": 0.0906,
+        "income": "$36,739",
+        "population": "22,084",
+        "numofhouseholds": "8,540",
+        "incomestress": 2.4455,
+        "emcs": [
+          {
+            "name": "Hart EMC",
+            "id": "hart-emc"
+          },
+          {
+            "name": "Jackson EMC",
+            "id": "jackson-emc"
+          }
+        ]
+      },
+      {
+        "name": "Fulton County",
+        "id": "fulton-county",
+        "white": 0.3815,
+        "black": 0.4739,
+        "income": "$87,605",
+        "population": "175,511",
+        "numofhouseholds": "59,433",
+        "incomestress": 2.0003,
+        "emcs": [
+          {
+            "name": "Cobb EMC",
+            "id": "cobb-emc"
+          },
+          {
+            "name": "Coweta-Fayette EMC",
+            "id": "coweta-fayette-emc"
+          },
+          {
+            "name": "GreyStone Power Corporation",
+            "id": "greystone-power-corporation"
+          },
+          {
+            "name": "Sawnee EMC",
+            "id": "sawnee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Gilmer County",
+        "id": "gilmer-county",
+        "white": 0.8704,
+        "black": 0.0048,
+        "income": "$36,741",
+        "population": "28,292",
+        "numofhouseholds": "11,314",
+        "incomestress": 1.9215,
+        "emcs": [
+          {
+            "name": "Amicalola EMC",
+            "id": "amicalola-emc"
+          }
+        ]
+      },
+      {
+        "name": "Glascock County",
+        "id": "glascock-county",
+        "white": 0.8738,
+        "black": 0.1021,
+        "income": "$37,149",
+        "population": "3,082",
+        "numofhouseholds": "1,162",
+        "incomestress": 2.2222,
+        "emcs": [
+          {
+            "name": "Jefferson Energy Cooperative",
+            "id": "jefferson-energy-cooperative"
+          }
+        ]
+      },
+      {
+        "name": "Glynn County",
+        "id": "glynn-county",
+        "white": 0.6357,
+        "black": 0.2664,
+        "income": "$50,337",
+        "population": "79,626",
+        "numofhouseholds": "31,774",
+        "incomestress": 2.1505,
+        "emcs": [
+          {
+            "name": "Okefenoke REMC",
+            "id": "okefenoke-remc"
+          }
+        ]
+      },
+      {
+        "name": "Gordon County",
+        "id": "gordon-county",
+        "white": 0.7849,
+        "black": 0.035,
+        "income": "$40,916",
+        "population": "55,186",
+        "numofhouseholds": "19,715",
+        "incomestress": 2.2257,
+        "emcs": [
+          {
+            "name": "Amicalola EMC",
+            "id": "amicalola-emc"
+          },
+          {
+            "name": "North Georgia EMC",
+            "id": "north-georgia-emc"
+          }
+        ]
+      },
+      {
+        "name": "Grady County",
+        "id": "grady-county",
+        "white": 0.6352,
+        "black": 0.2619,
+        "income": "$32,247",
+        "population": "25,011",
+        "numofhouseholds": "9,418",
+        "incomestress": 2.3485,
+        "emcs": [
+          {
+            "name": "Grady EMC",
+            "id": "grady-emc"
+          },
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          }
+        ]
+      },
+      {
+        "name": "Greene County",
+        "id": "greene-county",
+        "white": 0.5902,
+        "black": 0.3474,
+        "income": "$38,513",
+        "population": "15,994",
+        "numofhouseholds": "6,519",
+        "incomestress": 2.1932,
+        "emcs": [
+          {
+            "name": "Rayle EMC",
+            "id": "rayle-emc"
+          }
+        ]
+      },
+      {
+        "name": "Gwinnett County",
+        "id": "gwinnett-county",
+        "white": 0.3517,
+        "black": 0.2667,
+        "income": "$63,219",
+        "population": "805,321",
+        "numofhouseholds": "268,519",
+        "incomestress": 1.5304,
+        "emcs": [
+          {
+            "name": "Jackson EMC",
+            "id": "jackson-emc"
+          },
+          {
+            "name": "Sawnee EMC",
+            "id": "sawnee-emc"
+          },
+          {
+            "name": "Walton EMC",
+            "id": "walton-emc"
+          }
+        ]
+      },
+      {
+        "name": "Habersham County",
+        "id": "habersham-county",
+        "white": 0.7912,
+        "black": 0.0291,
+        "income": "$40,192",
+        "population": "43,041",
+        "numofhouseholds": "15,472",
+        "incomestress": 1.9865,
+        "emcs": [
+          {
+            "name": "Habersham EMC",
+            "id": "habersham-emc"
+          }
+        ]
+      },
+      {
+        "name": "Hall County",
+        "id": "hall-county",
+        "white": 0.6256,
+        "black": 0.0699,
+        "income": "$50,876",
+        "population": "179,684",
+        "numofhouseholds": "60,691",
+        "incomestress": 1.7208,
+        "emcs": [
+          {
+            "name": "Habersham EMC",
+            "id": "habersham-emc"
+          },
+          {
+            "name": "Jackson EMC",
+            "id": "jackson-emc"
+          },
+          {
+            "name": "Sawnee EMC",
+            "id": "sawnee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Hancock County",
+        "id": "hancock-county",
+        "white": 0.3137,
+        "black": 0.6661,
+        "income": "$22,283",
+        "population": "9,429",
+        "numofhouseholds": "3,341",
+        "incomestress": 2.8318,
+        "emcs": [
+          {
+            "name": "Rayle EMC",
+            "id": "rayle-emc"
+          },
+          {
+            "name": "Washington EMC",
+            "id": "washington-emc"
+          }
+        ]
+      },
+      {
+        "name": "Haralson County",
+        "id": "haralson-county",
+        "white": 0.9179,
+        "black": 0.0438,
+        "income": "$38,996",
+        "population": "28,780",
+        "numofhouseholds": "10,757",
+        "incomestress": 2.0031,
+        "emcs": [
+          {
+            "name": "Carroll EMC",
+            "id": "carroll-emc"
+          }
+        ]
+      },
+      {
+        "name": "Harris County",
+        "id": "harris-county",
+        "white": 0.7604,
+        "black": 0.1711,
+        "income": "$67,018",
+        "population": "32,024",
+        "numofhouseholds": "11,823",
+        "incomestress": 1.3989,
+        "emcs": [
+          {
+            "name": "Diverse Power",
+            "id": "diverse-power"
+          },
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          }
+        ]
+      },
+      {
+        "name": "Hart County",
+        "id": "hart-county",
+        "white": 0.7673,
+        "black": 0.1721,
+        "income": "$36,109",
+        "population": "25,213",
+        "numofhouseholds": "10,121",
+        "incomestress": 2.2256,
+        "emcs": [
+          {
+            "name": "Hart EMC",
+            "id": "hart-emc"
+          }
+        ]
+      },
+      {
+        "name": "Heard County",
+        "id": "heard-county",
+        "white": 0.8441,
+        "black": 0.0863,
+        "income": "$42,685",
+        "population": "11,834",
+        "numofhouseholds": "4,400",
+        "incomestress": 1.9788,
+        "emcs": [
+          {
+            "name": "Carroll EMC",
+            "id": "carroll-emc"
+          },
+          {
+            "name": "Coweta-Fayette EMC",
+            "id": "coweta-fayette-emc"
+          },
+          {
+            "name": "Diverse Power",
+            "id": "diverse-power"
+          }
+        ]
+      },
+      {
+        "name": "Henry County",
+        "id": "henry-county",
+        "white": 0.4249,
+        "black": 0.4382,
+        "income": "$63,923",
+        "population": "203,922",
+        "numofhouseholds": "70,255",
+        "incomestress": 1.4353,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Snapping Shoals EMC",
+            "id": "snapping-shoals-emc"
+          }
+        ]
+      },
+      {
+        "name": "Houston County",
+        "id": "houston-county",
+        "white": 0.5325,
+        "black": 0.3455,
+        "income": "$55,098",
+        "population": "139,900",
+        "numofhouseholds": "53,051",
+        "incomestress": 2.0647,
+        "emcs": [
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          },
+          {
+            "name": "Middle Georgia EMC",
+            "id": "middle-georgia-emc"
+          }
+        ]
+      },
+      {
+        "name": "Irwin County",
+        "id": "irwin-county",
+        "white": 0.7577,
+        "black": 0.1921,
+        "income": "$38,376",
+        "population": "9,538",
+        "numofhouseholds": "3,495",
+        "incomestress": 2.7088,
+        "emcs": [
+          {
+            "name": "Irwin EMC",
+            "id": "irwin-emc"
+          }
+        ]
+      },
+      {
+        "name": "Jackson County",
+        "id": "jackson-county",
+        "white": 0.8159,
+        "black": 0.0643,
+        "income": "$51,506",
+        "population": "60,485",
+        "numofhouseholds": "21,343",
+        "incomestress": 1.6096,
+        "emcs": [
+          {
+            "name": "Jackson EMC",
+            "id": "jackson-emc"
+          }
+        ]
+      },
+      {
+        "name": "Jasper County",
+        "id": "jasper-county",
+        "white": 0.7723,
+        "black": 0.1588,
+        "income": "$42,081",
+        "population": "13,900",
+        "numofhouseholds": "5,044",
+        "incomestress": 1.9041,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Snapping Shoals EMC",
+            "id": "snapping-shoals-emc"
+          },
+          {
+            "name": "Tri-County EMC",
+            "id": "tri-county-emc"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Davis County",
+        "id": "jeffdavis-county",
+        "white": 0.7484,
+        "black": 0.1546,
+        "income": "$32,928",
+        "population": "15,068",
+        "numofhouseholds": "5,689",
+        "incomestress": 2.6661,
+        "emcs": [
+          {
+            "name": "Satilla REMC",
+            "id": "satilla-remc"
+          }
+        ]
+      },
+      {
+        "name": "Jefferson County",
+        "id": "jefferson-county",
+        "white": 0.4465,
+        "black": 0.494,
+        "income": "$29,268",
+        "population": "16,930",
+        "numofhouseholds": "6,241",
+        "incomestress": 2.9123,
+        "emcs": [
+          {
+            "name": "Jefferson Energy Cooperative",
+            "id": "jefferson-energy-cooperative"
+          },
+          {
+            "name": "Washington EMC",
+            "id": "washington-emc"
+          }
+        ]
+      },
+      {
+        "name": "Jenkins County",
+        "id": "jenkins-county",
+        "white": 0.5298,
+        "black": 0.3667,
+        "income": "$27,686",
+        "population": "8,340",
+        "numofhouseholds": "3,192",
+        "incomestress": 3.2577,
+        "emcs": [
+          {
+            "name": "Excelsior EMC",
+            "id": "excelsior-emc"
+          },
+          {
+            "name": "Jefferson Energy Cooperative",
+            "id": "jefferson-energy-cooperative"
+          },
+          {
+            "name": "Planters EMC",
+            "id": "planters-emc"
+          }
+        ]
+      },
+      {
+        "name": "Johnson County",
+        "id": "johnson-county",
+        "white": 0.6638,
+        "black": 0.2916,
+        "income": "$27,607",
+        "population": "9,980",
+        "numofhouseholds": "3,347",
+        "incomestress": 2.2505,
+        "emcs": [
+          {
+            "name": "Altamaha EMC",
+            "id": "altamaha-emc"
+          },
+          {
+            "name": "Jefferson Energy Cooperative",
+            "id": "jefferson-energy-cooperative"
+          },
+          {
+            "name": "Washington EMC",
+            "id": "washington-emc"
+          }
+        ]
+      },
+      {
+        "name": "Jones County",
+        "id": "jones-county",
+        "white": 0.7161,
+        "black": 0.2365,
+        "income": "$50,717",
+        "population": "28,669",
+        "numofhouseholds": "10,586",
+        "incomestress": 1.7912,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Tri-County EMC",
+            "id": "tri-county-emc"
+          }
+        ]
+      },
+      {
+        "name": "Lamar County",
+        "id": "lamar-county",
+        "white": 0.6409,
+        "black": 0.3047,
+        "income": "$37,536",
+        "population": "18,317",
+        "numofhouseholds": "6,618",
+        "incomestress": 2.3349,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Southern Rivers Energy",
+            "id": "southern-rivers-energy"
+          }
+        ]
+      },
+      {
+        "name": "Lanier County",
+        "id": "lanier-county",
+        "white": 0.768,
+        "black": 0.1776,
+        "income": "$37,522",
+        "population": "10,078",
+        "numofhouseholds": "3,608",
+        "incomestress": 2.5744,
+        "emcs": [
+          {
+            "name": "Slash Pine EMC",
+            "id": "slash-pine-emc"
+          }
+        ]
+      },
+      {
+        "name": "Laurens County",
+        "id": "laurens-county",
+        "white": 0.5665,
+        "black": 0.3869,
+        "income": "$38,280",
+        "population": "48,434",
+        "numofhouseholds": "18,641",
+        "incomestress": 2.7726,
+        "emcs": [
+          {
+            "name": "Altamaha EMC",
+            "id": "altamaha-emc"
+          },
+          {
+            "name": "Little Ocmulgee EMC",
+            "id": "little-ocmulgee-emc"
+          },
+          {
+            "name": "Ocmulgee EMC",
+            "id": "ocmulgee-emc"
+          },
+          {
+            "name": "Oconee EMC",
+            "id": "oconee-emc"
+          },
+          {
+            "name": "Washington EMC",
+            "id": "washington-emc"
+          }
+        ]
+      },
+      {
+        "name": "Lee County",
+        "id": "lee-county",
+        "white": 0.7112,
+        "black": 0.2205,
+        "income": "$59,811",
+        "population": "28,298",
+        "numofhouseholds": "9,706",
+        "incomestress": 1.6287,
+        "emcs": [
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          },
+          {
+            "name": "Sumter EMC",
+            "id": "sumter-emc"
+          }
+        ]
+      },
+      {
+        "name": "Liberty County",
+        "id": "liberty-county",
+        "white": 0.3934,
+        "black": 0.4072,
+        "income": "$42,674",
+        "population": "63,453",
+        "numofhouseholds": "22,155",
+        "incomestress": 2.0952,
+        "emcs": [
+          {
+            "name": "Canoochee EMC",
+            "id": "canoochee-emc"
+          },
+          {
+            "name": "Coastal Electric Cooperative",
+            "id": "coastal-electric-cooperative"
+          }
+        ]
+      },
+      {
+        "name": "Lincoln County",
+        "id": "lincoln-county",
+        "white": 0.656,
+        "black": 0.3173,
+        "income": "$36,399",
+        "population": "7,996",
+        "numofhouseholds": "3,281",
+        "incomestress": 2.5706,
+        "emcs": [
+          {
+            "name": "Rayle EMC",
+            "id": "rayle-emc"
+          }
+        ]
+      },
+      {
+        "name": "Long County",
+        "id": "long-county",
+        "white": 0.6042,
+        "black": 0.2451,
+        "income": "$41,186",
+        "population": "14,464",
+        "numofhouseholds": "5,023",
+        "incomestress": 1.7853,
+        "emcs": [
+          {
+            "name": "Canoochee EMC",
+            "id": "canoochee-emc"
+          },
+          {
+            "name": "Coastal Electric Cooperative",
+            "id": "coastal-electric-cooperative"
+          }
+        ]
+      },
+      {
+        "name": "Lowndes County",
+        "id": "lowndes-county",
+        "white": 0.5202,
+        "black": 0.3776,
+        "income": "$39,096",
+        "population": "109,233",
+        "numofhouseholds": "39,747",
+        "incomestress": 2.7716,
+        "emcs": [
+          {
+            "name": "Colquitt EMC",
+            "id": "colquitt-emc"
+          },
+          {
+            "name": "Slash Pine EMC",
+            "id": "slash-pine-emc"
+          }
+        ]
+      },
+      {
+        "name": "Lumpkin County",
+        "id": "lumpkin-county",
+        "white": 0.9033,
+        "black": 0.0222,
+        "income": "$43,394",
+        "population": "29,966",
+        "numofhouseholds": "10,989",
+        "incomestress": 1.9878,
+        "emcs": [
+          {
+            "name": "Amicalola EMC",
+            "id": "amicalola-emc"
+          },
+          {
+            "name": "Habersham EMC",
+            "id": "habersham-emc"
+          },
+          {
+            "name": "Jackson EMC",
+            "id": "jackson-emc"
+          },
+          {
+            "name": "Sawnee EMC",
+            "id": "sawnee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Macon County",
+        "id": "macon-county",
+        "white": 0.3509,
+        "black": 0.5935,
+        "income": "$27,950",
+        "population": "14,740",
+        "numofhouseholds": "4,999",
+        "incomestress": 2.401,
+        "emcs": [
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          },
+          {
+            "name": "Middle Georgia EMC",
+            "id": "middle-georgia-emc"
+          }
+        ]
+      },
+      {
+        "name": "Madison County",
+        "id": "madison-county",
+        "white": 0.841,
+        "black": 0.0929,
+        "income": "$41,343",
+        "population": "28,120",
+        "numofhouseholds": "10,508",
+        "incomestress": 1.8997,
+        "emcs": [
+          {
+            "name": "Hart EMC",
+            "id": "hart-emc"
+          },
+          {
+            "name": "Jackson EMC",
+            "id": "jackson-emc"
+          },
+          {
+            "name": "Rayle EMC",
+            "id": "rayle-emc"
+          }
+        ]
+      },
+      {
+        "name": "Marion County",
+        "id": "marion-county",
+        "white": 0.587,
+        "black": 0.3103,
+        "income": "$31,581",
+        "population": "8,742",
+        "numofhouseholds": "3,420",
+        "incomestress": 3.2831,
+        "emcs": [
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          },
+          {
+            "name": "Sumter EMC",
+            "id": "sumter-emc"
+          }
+        ]
+      },
+      {
+        "name": "McDuffie County",
+        "id": "mcduffie-county",
+        "white": 0.5706,
+        "black": 0.3687,
+        "income": "$35,414",
+        "population": "21,875",
+        "numofhouseholds": "8,289",
+        "incomestress": 1.9242,
+        "emcs": [
+          {
+            "name": "Jefferson Energy Cooperative",
+            "id": "jefferson-energy-cooperative"
+          }
+        ]
+      },
+      {
+        "name": "McIntosh County",
+        "id": "mcintosh-county",
+        "white": 0.6274,
+        "black": 0.3485,
+        "income": "$39,075",
+        "population": "14,333",
+        "numofhouseholds": "5,971",
+        "incomestress": 2.214,
+        "emcs": [
+          {
+            "name": "Coastal Electric Cooperative",
+            "id": "coastal-electric-cooperative"
+          }
+        ]
+      },
+      {
+        "name": "Meriwether County",
+        "id": "meriwether-county",
+        "white": 0.5409,
+        "black": 0.4195,
+        "income": "$37,845",
+        "population": "21,992",
+        "numofhouseholds": "8,522",
+        "incomestress": 2.6855,
+        "emcs": [
+          {
+            "name": "Coweta-Fayette EMC",
+            "id": "coweta-fayette-emc"
+          },
+          {
+            "name": "Diverse Power",
+            "id": "diverse-power"
+          },
+          {
+            "name": "Southern Rivers Energy",
+            "id": "southern-rivers-energy"
+          },
+          {
+            "name": "Upson EMC",
+            "id": "upson-emc"
+          }
+        ]
+      },
+      {
+        "name": "Miller County",
+        "id": "miller-county",
+        "white": 0.6782,
+        "black": 0.3033,
+        "income": "$33,196",
+        "population": "6,125",
+        "numofhouseholds": "2,426",
+        "incomestress": 2.3411,
+        "emcs": [
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          },
+          {
+            "name": "Three Notch EMC",
+            "id": "three-notch-emc"
+          }
+        ]
+      },
+      {
+        "name": "Mitchell County",
+        "id": "mitchell-county",
+        "white": 0.4562,
+        "black": 0.4755,
+        "income": "$36,198",
+        "population": "23,498",
+        "numofhouseholds": "8,055",
+        "incomestress": 2.9619,
+        "emcs": [
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          }
+        ]
+      },
+      {
+        "name": "Monroe County",
+        "id": "monroe-county",
+        "white": 0.7169,
+        "black": 0.2394,
+        "income": "$48,297",
+        "population": "26,424",
+        "numofhouseholds": "9,662",
+        "incomestress": 2.0115,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          },
+          {
+            "name": "Southern Rivers Energy",
+            "id": "southern-rivers-energy"
+          }
+        ]
+      },
+      {
+        "name": "Montgomery County",
+        "id": "montgomery-county",
+        "white": 0.7418,
+        "black": 0.1888,
+        "income": "$35,182",
+        "population": "9,123",
+        "numofhouseholds": "3,287",
+        "incomestress": 2.2173,
+        "emcs": [
+          {
+            "name": "Altamaha EMC",
+            "id": "altamaha-emc"
+          },
+          {
+            "name": "Little Ocmulgee EMC",
+            "id": "little-ocmulgee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Morgan County",
+        "id": "morgan-county",
+        "white": 0.7694,
+        "black": 0.1701,
+        "income": "$45,817",
+        "population": "17,868",
+        "numofhouseholds": "6,660",
+        "incomestress": 1.5512,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Rayle EMC",
+            "id": "rayle-emc"
+          },
+          {
+            "name": "Snapping Shoals EMC",
+            "id": "snapping-shoals-emc"
+          },
+          {
+            "name": "Tri-County EMC",
+            "id": "tri-county-emc"
+          },
+          {
+            "name": "Walton EMC",
+            "id": "walton-emc"
+          }
+        ]
+      },
+      {
+        "name": "Murray County",
+        "id": "murray-county",
+        "white": 0.8359,
+        "black": 0.0083,
+        "income": "$38,226",
+        "population": "39,628",
+        "numofhouseholds": "14,080",
+        "incomestress": 2.1358,
+        "emcs": [
+          {
+            "name": "Amicalola EMC",
+            "id": "amicalola-emc"
+          },
+          {
+            "name": "North Georgia EMC",
+            "id": "north-georgia-emc"
+          }
+        ]
+      },
+      {
+        "name": "Muscogee County",
+        "id": "muscogee-county",
+        "white": 0.3593,
+        "black": 0.5122,
+        "income": "$41,331",
+        "population": "189,885",
+        "numofhouseholds": "74,081",
+        "incomestress": 3.0915,
+        "emcs": [
+          {
+            "name": "Diverse Power",
+            "id": "diverse-power"
+          },
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          }
+        ]
+      },
+      {
+        "name": "Newton County",
+        "id": "newton-county",
+        "white": 0.4971,
+        "black": 0.41,
+        "income": "$52,361",
+        "population": "99,958",
+        "numofhouseholds": "34,390",
+        "incomestress": 1.8198,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Snapping Shoals EMC",
+            "id": "snapping-shoals-emc"
+          },
+          {
+            "name": "Walton EMC",
+            "id": "walton-emc"
+          }
+        ]
+      },
+      {
+        "name": "Oconee County",
+        "id": "oconee-county",
+        "white": 0.8505,
+        "black": 0.0485,
+        "income": "$74,352",
+        "population": "32,808",
+        "numofhouseholds": "11,622",
+        "incomestress": 1.1062,
+        "emcs": [
+          {
+            "name": "Rayle EMC",
+            "id": "rayle-emc"
+          },
+          {
+            "name": "Walton EMC",
+            "id": "walton-emc"
+          }
+        ]
+      },
+      {
+        "name": "Oglethorpe County",
+        "id": "oglethorpe-county",
+        "white": 0.7668,
+        "black": 0.1889,
+        "income": "$39,319",
+        "population": "14,899",
+        "numofhouseholds": "5,647",
+        "incomestress": 2.0749,
+        "emcs": [
+          {
+            "name": "Jackson EMC",
+            "id": "jackson-emc"
+          },
+          {
+            "name": "Rayle EMC",
+            "id": "rayle-emc"
+          }
+        ]
+      },
+      {
+        "name": "Paulding County",
+        "id": "paulding-county",
+        "white": 0.7148,
+        "black": 0.1851,
+        "income": "$62,348",
+        "population": "142,324",
+        "numofhouseholds": "48,105",
+        "incomestress": 1.4795,
+        "emcs": [
+          {
+            "name": "Carroll EMC",
+            "id": "carroll-emc"
+          },
+          {
+            "name": "Cobb EMC",
+            "id": "cobb-emc"
+          },
+          {
+            "name": "GreyStone Power Corporation",
+            "id": "greystone-power-corporation"
+          }
+        ]
+      },
+      {
+        "name": "Peach County",
+        "id": "peach-county",
+        "white": 0.4428,
+        "black": 0.4453,
+        "income": "$41,014",
+        "population": "27,695",
+        "numofhouseholds": "9,958",
+        "incomestress": 2.7446,
+        "emcs": [
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          }
+        ]
+      },
+      {
+        "name": "Pickens County",
+        "id": "pickens-county",
+        "white": 0.865,
+        "black": 0.0094,
+        "income": "$49,945",
+        "population": "29,431",
+        "numofhouseholds": "11,291",
+        "incomestress": 1.5485,
+        "emcs": [
+          {
+            "name": "Amicalola EMC",
+            "id": "amicalola-emc"
+          }
+        ]
+      },
+      {
+        "name": "Pierce County",
+        "id": "pierce-county",
+        "white": 0.8349,
+        "black": 0.087,
+        "income": "$37,062",
+        "population": "18,758",
+        "numofhouseholds": "7,083",
+        "incomestress": 2.2585,
+        "emcs": [
+          {
+            "name": "Satilla REMC",
+            "id": "satilla-remc"
+          }
+        ]
+      },
+      {
+        "name": "Pike County",
+        "id": "pike-county",
+        "white": 0.8789,
+        "black": 0.0781,
+        "income": "$53,213",
+        "population": "17,869",
+        "numofhouseholds": "6,187",
+        "incomestress": 1.529,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Southern Rivers Energy",
+            "id": "southern-rivers-energy"
+          },
+          {
+            "name": "Upson EMC",
+            "id": "upson-emc"
+          }
+        ]
+      },
+      {
+        "name": "Polk County",
+        "id": "polk-county",
+        "white": 0.7222,
+        "black": 0.1212,
+        "income": "$38,646",
+        "population": "41,475",
+        "numofhouseholds": "15,092",
+        "incomestress": 2.2248,
+        "emcs": [
+          {
+            "name": "Carroll EMC",
+            "id": "carroll-emc"
+          }
+        ]
+      },
+      {
+        "name": "Pulaski County",
+        "id": "pulaski-county",
+        "white": 0.5966,
+        "black": 0.3639,
+        "income": "$36,262",
+        "population": "12,010",
+        "numofhouseholds": "4,475",
+        "incomestress": 2.2925,
+        "emcs": [
+          {
+            "name": "Middle Georgia EMC",
+            "id": "middle-georgia-emc"
+          },
+          {
+            "name": "Ocmulgee EMC",
+            "id": "ocmulgee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Putnam County",
+        "id": "putnam-county",
+        "white": 0.6624,
+        "black": 0.2341,
+        "income": "$41,529",
+        "population": "21,218",
+        "numofhouseholds": "8,601",
+        "incomestress": 2.0392,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          },
+          {
+            "name": "Tri-County EMC",
+            "id": "tri-county-emc"
+          }
+        ]
+      },
+      {
+        "name": "Quitman County",
+        "id": "quitman-county",
+        "white": 0.3705,
+        "black": 0.519,
+        "income": "$28,912",
+        "population": "2,513",
+        "numofhouseholds": "1,053",
+        "incomestress": 3.75,
+        "emcs": [
+          {
+            "name": "Diverse Power",
+            "id": "diverse-power"
+          },
+          {
+            "name": "Sumter EMC",
+            "id": "sumter-emc"
+          }
+        ]
+      },
+      {
+        "name": "Rabun County",
+        "id": "rabun-county",
+        "white": 0.8791,
+        "black": 0.021,
+        "income": "$34,406",
+        "population": "16,276",
+        "numofhouseholds": "6,780",
+        "incomestress": 2.3796,
+        "emcs": [
+          {
+            "name": "Habersham EMC",
+            "id": "habersham-emc"
+          }
+        ]
+      },
+      {
+        "name": "Randolph County",
+        "id": "randolph-county",
+        "white": 0.3893,
+        "black": 0.558,
+        "income": "$26,194",
+        "population": "7,719",
+        "numofhouseholds": "3,187",
+        "incomestress": 3.0081,
+        "emcs": [
+          {
+            "name": "Diverse Power",
+            "id": "diverse-power"
+          },
+          {
+            "name": "Sumter EMC",
+            "id": "sumter-emc"
+          }
+        ]
+      },
+      {
+        "name": "Richmond County",
+        "id": "richmond-county",
+        "white": 0.3533,
+        "black": 0.5578,
+        "income": "$37,882",
+        "population": "200,549",
+        "numofhouseholds": "76,924",
+        "incomestress": 2.8755,
+        "emcs": [
+          {
+            "name": "Jefferson Energy Cooperative",
+            "id": "jefferson-energy-cooperative"
+          },
+          {
+            "name": "Planters EMC",
+            "id": "planters-emc"
+          }
+        ]
+      },
+      {
+        "name": "Rockdale County",
+        "id": "rockdale-county",
+        "white": 0.3468,
+        "black": 0.5085,
+        "income": "$55,779",
+        "population": "85,215",
+        "numofhouseholds": "30,027",
+        "incomestress": 1.7017,
+        "emcs": [
+          {
+            "name": "Snapping Shoals EMC",
+            "id": "snapping-shoals-emc"
+          },
+          {
+            "name": "Walton EMC",
+            "id": "walton-emc"
+          }
+        ]
+      },
+      {
+        "name": "Schley County",
+        "id": "schley-county",
+        "white": 0.69,
+        "black": 0.2373,
+        "income": "$35,096",
+        "population": "5,010",
+        "numofhouseholds": "1,872",
+        "incomestress": 2.3542,
+        "emcs": [
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          },
+          {
+            "name": "Sumter EMC",
+            "id": "sumter-emc"
+          }
+        ]
+      },
+      {
+        "name": "Screven County",
+        "id": "screven-county",
+        "white": 0.5495,
+        "black": 0.4104,
+        "income": "$32,155",
+        "population": "14,593",
+        "numofhouseholds": "5,596",
+        "incomestress": 2.3498,
+        "emcs": [
+          {
+            "name": "Planters EMC",
+            "id": "planters-emc"
+          }
+        ]
+      },
+      {
+        "name": "Seminole County",
+        "id": "seminole-county",
+        "white": 0.6308,
+        "black": 0.3134,
+        "income": "$32,666",
+        "population": "8,729",
+        "numofhouseholds": "3,509",
+        "incomestress": 2.8529,
+        "emcs": [
+          {
+            "name": "Three Notch EMC",
+            "id": "three-notch-emc"
+          }
+        ]
+      },
+      {
+        "name": "Spalding County",
+        "id": "spalding-county",
+        "white": 0.5725,
+        "black": 0.3517,
+        "income": "$41,100",
+        "population": "64,073",
+        "numofhouseholds": "23,565",
+        "incomestress": 2.4323,
+        "emcs": [
+          {
+            "name": "Central Georgia EMC",
+            "id": "central-georgia-emc"
+          }
+        ]
+      },
+      {
+        "name": "Stephens County",
+        "id": "stephens-county",
+        "white": 0.7995,
+        "black": 0.1373,
+        "income": "$34,938",
+        "population": "26,175",
+        "numofhouseholds": "10,289",
+        "incomestress": 2.4319,
+        "emcs": [
+          {
+            "name": "Habersham EMC",
+            "id": "habersham-emc"
+          },
+          {
+            "name": "Hart EMC",
+            "id": "hart-emc"
+          }
+        ]
+      },
+      {
+        "name": "Stewart County",
+        "id": "stewart-county",
+        "white": 0.2691,
+        "black": 0.544,
+        "income": "$30,954",
+        "population": "6,058",
+        "numofhouseholds": "1,862",
+        "incomestress": 3.3184,
+        "emcs": [
+          {
+            "name": "Diverse Power",
+            "id": "diverse-power"
+          }
+        ]
+      },
+      {
+        "name": "Sumter County",
+        "id": "sumter-county",
+        "white": 0.457,
+        "black": 0.4588,
+        "income": "$32,430",
+        "population": "32,819",
+        "numofhouseholds": "12,123",
+        "incomestress": 2.6428,
+        "emcs": [
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          },
+          {
+            "name": "Sumter EMC",
+            "id": "sumter-emc"
+          }
+        ]
+      },
+      {
+        "name": "Talbot County",
+        "id": "talbot-county",
+        "white": 0.415,
+        "black": 0.5699,
+        "income": "$33,873",
+        "population": "6,865",
+        "numofhouseholds": "2,832",
+        "incomestress": 2.6306,
+        "emcs": [
+          {
+            "name": "Flint Energies",
+            "id": "flint-energies"
+          },
+          {
+            "name": "Upson EMC",
+            "id": "upson-emc"
+          }
+        ]
+      },
+      {
+        "name": "Taliaferro County",
+        "id": "taliaferro-county",
+        "white": 0.3277,
+        "black": 0.6207,
+        "income": "$22,188",
+        "population": "1,717",
+        "numofhouseholds": "759",
+        "incomestress": 2.6705,
+        "emcs": [
+          {
+            "name": "Rayle EMC",
+            "id": "rayle-emc"
+          }
+        ]
+      },
+      {
+        "name": "Tattnall County",
+        "id": "tattnall-county",
+        "white": 0.6179,
+        "black": 0.2682,
+        "income": "$38,522",
+        "population": "25,520",
+        "numofhouseholds": "8,210",
+        "incomestress": 2.467,
+        "emcs": [
+          {
+            "name": "Altamaha EMC",
+            "id": "altamaha-emc"
+          },
+          {
+            "name": "Canoochee EMC",
+            "id": "canoochee-emc"
+          },
+          {
+            "name": "Excelsior",
+            "id": "excelsior-emc"
+          }
+        ]
+      },
+      {
+        "name": "Taylor County",
+        "id": "taylor-county",
+        "white": 0.6205,
+        "black": 0.3258,
+        "income": "$25,237",
+        "population": "8,906",
+        "numofhouseholds": "3,522",
+        "incomestress": 2.9939,
+        "emcs": [
+          {
+            "name": "Flint Energies",
+            "id": "flint-emc"
+          },
+          {
+            "name": "Upson EMC",
+            "id": "upson-emc"
+          }
+        ]
+      },
+      {
+        "name": "Telfair County",
+        "id": "telfair-county",
+        "white": 0.6105,
+        "black": 0.3135,
+        "income": "$23,876",
+        "population": "16,500",
+        "numofhouseholds": "5,543",
+        "incomestress": 2.7491,
+        "emcs": [
+          {
+            "name": "Little Ocumulgee EMC",
+            "id": "little-ocmulgee-emc"
+          },
+          {
+            "name": "Ocmulgee EMC",
+            "id": "ocmulgee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Terrell County",
+        "id": "terrell-county",
+        "white": 0.4181,
+        "black": 0.5064,
+        "income": "$27,909",
+        "population": "9,315",
+        "numofhouseholds": "3,519",
+        "incomestress": 2.762,
+        "emcs": [
+          {
+            "name": "Sumter EMC",
+            "id": "sumter-emc"
+          },
+          {
+            "name": "Terrell County",
+            "id": "terrell-county"
+          }
+        ]
+      },
+      {
+        "name": "Thomas County",
+        "id": "thomas-county",
+        "white": 0.5859,
+        "black": 0.3448,
+        "income": "$35,797",
+        "population": "44,720",
+        "numofhouseholds": "17,573",
+        "incomestress": 2.3808,
+        "emcs": [
+          {
+            "name": "Grady EMC",
+            "id": "grady-emc"
+          },
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          }
+        ]
+      },
+      {
+        "name": "Tift County",
+        "id": "tift-county",
+        "white": 0.6093,
+        "black": 0.2492,
+        "income": "$36,847",
+        "population": "40,118",
+        "numofhouseholds": "14,836",
+        "incomestress": 2.2756,
+        "emcs": [
+          {
+            "name": "Colquitt EMC",
+            "id": "colquitt-emc"
+          },
+          {
+            "name": "Irwin EMC",
+            "id": "irwin-emc"
+          },
+          {
+            "name": "Mitchell EMC",
+            "id": "mitchell-emc"
+          }
+        ]
+      },
+      {
+        "name": "Toombs County",
+        "id": "toombs-county",
+        "white": 0.6173,
+        "black": 0.2346,
+        "income": "$31,635",
+        "population": "27,223",
+        "numofhouseholds": "10,375",
+        "incomestress": 2.6292,
+        "emcs": [
+          {
+            "name": "Altamaha EMC",
+            "id": "altamaha-emc"
+          },
+          {
+            "name": "Canoochee EMC",
+            "id": "canoochee-emc"
+          }
+        ]
+      },
+      {
+        "name": "Towns County",
+        "id": "towns-county",
+        "white": 0.9451,
+        "black": 0.0117,
+        "income": "$39,540",
+        "population": "10,471",
+        "numofhouseholds": "4,510",
+        "incomestress": 2.1198,
+        "emcs": [
+          {
+            "name": "Blue Ridge Mountain EMC",
+            "id": "blue-ridge-mountain-emc"
+          }
+        ]
+      },
+      {
+        "name": "Treutlen County",
+        "id": "treutlen-county",
+        "white": 0.7934,
+        "black": 0.1849,
+        "income": "$36,467",
+        "population": "6,885",
+        "numofhouseholds": "2,543",
+        "incomestress": 3.2454,
+        "emcs": [
+          {
+            "name": "Altamaha EMC",
+            "id": "altamaha-emc"
+          }
+        ]
+      },
+      {
+        "name": "Troup County",
+        "id": "troup-county",
+        "white": 0.5738,
+        "black": 0.3521,
+        "income": "$41,770",
+        "population": "67,044",
+        "numofhouseholds": "24,828",
+        "incomestress": 2.3464
+      },
+      {
+        "name": "Turner County",
+        "id": "turner-county",
+        "white": 0.569,
+        "black": 0.3614,
+        "income": "$30,763",
+        "population": "8,930",
+        "numofhouseholds": "3,339",
+        "incomestress": 2.5934
+      },
+      {
+        "name": "Twiggs County",
+        "id": "twiggs-county",
+        "white": 0.5443,
+        "black": 0.436,
+        "income": "$26,521",
+        "population": "9,023",
+        "numofhouseholds": "3,634",
+        "incomestress": 2.8722
+      },
+      {
+        "name": "Union County",
+        "id": "union-county",
+        "white": 0.9464,
+        "black": 0.0064,
+        "income": "$41,298",
+        "population": "21,356",
+        "numofhouseholds": "9,116",
+        "incomestress": 1.9842
+      },
+      {
+        "name": "Upson County",
+        "id": "upson-county",
+        "white": 0.6925,
+        "black": 0.2616,
+        "income": "$34,509",
+        "population": "27,153",
+        "numofhouseholds": "10,716",
+        "incomestress": 2.5821
+      },
+      {
+        "name": "Walker County",
+        "id": "walker-county",
+        "white": 0.908,
+        "black": 0.0428,
+        "income": "$38,723",
+        "population": "68,756",
+        "numofhouseholds": "26,497",
+        "incomestress": 2.1473
+      },
+      {
+        "name": "Walton County",
+        "id": "walton-county",
+        "white": 0.7572,
+        "black": 0.1665,
+        "income": "$51,721",
+        "population": "83,768",
+        "numofhouseholds": "29,583",
+        "incomestress": 1.6477
+      },
+      {
+        "name": "Ware County",
+        "id": "ware-county",
+        "white": 0.5674,
+        "black": 0.3488,
+        "income": "$35,517",
+        "population": "36,312",
+        "numofhouseholds": "13,654",
+        "incomestress": 3.1397
+      },
+      {
+        "name": "Warren County",
+        "id": "warren-county",
+        "white": 0.3758,
+        "black": 0.6103,
+        "income": "$31,043",
+        "population": "5,834",
+        "numofhouseholds": "2,315",
+        "incomestress": 2.7789
+      },
+      {
+        "name": "Washington County",
+        "id": "washington-county",
+        "white": 0.4501,
+        "black": 0.5005,
+        "income": "$31,382",
+        "population": "21,187",
+        "numofhouseholds": "7,547",
+        "incomestress": 2.5092
+      },
+      {
+        "name": "Wayne County",
+        "id": "wayne-county",
+        "white": 0.7504,
+        "black": 0.1717,
+        "income": "$37,340",
+        "population": "30,099",
+        "numofhouseholds": "10,562",
+        "incomestress": 2.1575
+      },
+      {
+        "name": "Webster County",
+        "id": "webster-county",
+        "white": 0.518,
+        "black": 0.3727,
+        "income": "$25,708",
+        "population": "2,799",
+        "numofhouseholds": "1,119",
+        "incomestress": 2.5236
+      },
+      {
+        "name": "Wheeler County",
+        "id": "wheeler-county",
+        "white": 0.6003,
+        "black": 0.3942,
+        "income": "$35,422",
+        "population": "7,421",
+        "numofhouseholds": "2,152",
+        "incomestress": 3.3078
+      },
+      {
+        "name": "White County",
+        "id": "white-county",
+        "white": 0.9227,
+        "black": 0.0112,
+        "income": "$41,756",
+        "population": "27,144",
+        "numofhouseholds": "10,646",
+        "incomestress": 1.8735
+      },
+      {
+        "name": "Whitfield County",
+        "id": "whitfield-county",
+        "white": 0.5884,
+        "black": 0.0357,
+        "income": "$42,345",
+        "population": "102,599",
+        "numofhouseholds": "35,180",
+        "incomestress": 2.0848
+      },
+      {
+        "name": "Wilcox County",
+        "id": "wilcox-county",
+        "white": 0.6405,
+        "black": 0.3007,
+        "income": "$30,784",
+        "population": "9,255",
+        "numofhouseholds": "2,891",
+        "incomestress": 2.6093
+      },
+      {
+        "name": "Wilkes County",
+        "id": "wilkes-county",
+        "white": 0.5483,
+        "black": 0.3782,
+        "income": "$28,022",
+        "population": "10,593",
+        "numofhouseholds": "4,263",
+        "incomestress": 2.6064
+      },
+      {
+        "name": "Wilkinson County",
+        "id": "wilkinson-county",
+        "white": 0.5731,
+        "black": 0.3858,
+        "income": "$37,902",
+        "population": "9,563",
+        "numofhouseholds": "3,666",
+        "incomestress": 2.6252
+      },
+      {
+        "name": "Worth County",
+        "id": "worth-county",
+        "white": 0.697,
+        "black": 0.2471,
+        "income": "$38,670",
+        "population": "21,679",
+        "numofhouseholds": "8,214",
+        "incomestress": 2.1618
+      }
+    ]
+  },
+  {
+    "key": "emc-cta",
+    "data": [
+        {
+          "emc": "mitchell-emc",
+          "cta1": "Hire an independent agency to conduct annual board elections",
+          "cta2": "Remove all stipulations and prerequisites and allow member-owners to attend monthly board meetings without prior consent or notice. Co-op principals two and five dictate \"democratic member control\" and \"education, training, and information\". Open monthly meetings are a must for member-owners to be knowledgeable about what is happening in their co-ops and to participate. This must be clearly stated in the by-laws.",
+          "cta3": "Remove all stipulations and prerequisites and allow member-owners to attend and speak at monthly board meetings without prior consent or notice."
+        },
+        {
+          "emc": "irwin-emc",
+          "cta1": "Ensure the board of directors' pictures are available on the EMC website and educate member-owners on running for the board so diverse candidates will participate. This will assist in achieving board representation that is reflective of the demographics of the service territory population.",
+          "cta2": "Update the EMC website to provide the email address and phone number for all board members so member-owners can contact them with questions or concerns.",
+          "cta3": "Hire an independent agency to conduct annual board elections"
+        },
+        {
+          "emc": "planters-emc",
+          "cta1": "Ensure the board of directors' pictures are available on the EMC website and educate member-owners on running for the board so diverse candidates will participate. This will assist in achieving board representation that is reflective of the demographics of the service territory population.",
+          "cta2": "Create and distribute a diversity plan that outlines the co-ops targets and standards regarding diversity, equity, and inclusion in the EMC's workforce, leadership, programs/policies, and communications/outreach.",
+          "cta3": "Review and decrease the portion of the fee that is associated with the co-op dues."
+        },
+        {
+          "emc": "snapping-shoals-emc",
+          "cta1": "Remove all stipulations and prerequisites and allow member-owners to attend monthly board meetings without prior consent or notice. Co-op principals two and five dictate \"democratic member control\" and \"education, training, and information\". Open monthly meetings are a must for member-owners to be knowledgeable about what is happening in their co-ops and to participate. This must be clearly stated in the by-laws.",
+          "cta2": "Adopt the policy to provide member-owner information (not to include acct. number) to qualified board of directors election candidates upon request and without exception.",
+          "cta3": "Develop a program and/or apply for grants to provide broadband service for any portion of the EMC service territory that is underserved."
+        },
+        {
+          "emc": "sumter-emc",
+          "cta1": "open attendanceRemove all stipulations and prerequisites and allow member-owners to attend monthly board meetings without prior consent or notice. Co-op principals two and five dictate  \"democratic member control\"  and \"education, training, and information\". Open monthly meetings are a must for member-owners to be knowledgeable about what is happening in their co-ops and to participate. This must be clearly stated in the by-laws.",
+          "cta2": "Ensure the board of directors' pictures are available on the EMC website and educate member-owners on running for the board so diverse candidates will participate. This will assist in achieving board representation that is reflective of the demographics of the service territory population.",
+          "cta3": "Remove all stipulations and prerequisites and allow member-owners to attend and speak at monthly board meetings without prior consent or notice."
+        },
+        {
+          "emc": "cobb-emc",
+          "cta1": "Establish term limits that are explicitly stated in the by-laws for directors that limit their leadership to no more than six years.",
+          "cta2": "Ensure the board of directors' pictures are available on the EMC website and educate member-owners on running for the board so diverse candidates will participate. This will assist in achieving board representation that is reflective of the demographics of the service territory population.",
+          "cta3": "Create and distribute a diversity plan that outlines the co-ops targets and standards regarding diversity, equity, and inclusion in the EMC's workforce, leadership, programs/policies, and communications/outreach."
+        },
+        {
+          "emc": "sawnee-emc",
+          "cta1": "Ensure the board of directors' pictures are available on the EMC website and educate member-owners on running for the board so diverse candidates will participate. This will assist in achieving board representation that is reflective of the demographics of the service territory population.",
+          "cta2": "Create and distribute a diversity plan that outlines the co-ops targets and standards regarding diversity, equity, and inclusion in the EMC's workforce, leadership, programs/policies, and communications/outreach.",
+          "cta3": "Establish term limits that are explicitly stated in the by-laws for directors that limit their leadership to no more than six years."
+        },
+        {
+          "emc": "coweta-fayette-emc",
+          "cta1": "Establish term limits that are explicitly stated in the by-laws for directors that limit their leadership to no more than six years.",
+          "cta2": "Remove all stipulations and prerequisites and allow member-owners to attend monthly board meetings without prior consent or notice. Co-op principals two and five dictate \"democratic member control\" and \"education, training, and information\". Open monthly meetings are a must for member-owners to be knowledgeable about what is happening in their co-ops and to participate. This must be clearly stated in the by-laws.",
+          "cta3": "Remove all stipulations and prerequisites and allow member-owners to attend and speak at monthly board meetings without prior consent or notice."
+        },
+        {
+          "emc": "greystone-power-corporation",
+          "cta1": "Provide board meeting dates; times; locations; and agenda on the EMC website. This information should be publicly available seeing as the directors are meeting to conduct official business on behalf of member-owners. Moreover, the expectation is that the info is necessary so member-owners know when and where to attend.",
+          "cta2": "Post minutes from monthly meetings on the EMC website within 48 hours. It is imperative that member-owners are privy to the decisions and discussions regarding the EMC. The service territory is expansive and providing meeting notes in a timely manner allow for transparency and accountability throughout the entire territory.",
+          "cta3": "Create and distribute a diversity plan that outlines the co-ops targets and standards regarding diversity, equity, and inclusion in the EMC's workforce, leadership, programs/policies, and communications/outreach."
+        },
+        {
+          "emc": "flint-energies",
+          "cta1": "Establish term limits that are explicitly stated in the by-laws for directors that limit their leadership to no more than six years.",
+          "cta2": "Remove all stipulations and prerequisites and allow member-owners to attend monthly board meetings without prior consent or notice. Co-op principals two and five dictate \"democratic member control\" and \"education, training, and information\". Open monthly meetings are a must for member-owners to be knowledgeable about what is happening in their co-ops and to participate. This must be clearly stated in the by-laws.",
+          "cta3": "Provide board meeting dates; times; locations; and agenda on the EMC website. This information should be publicly available seeing as the directors are meeting to conduct official business on behalf of member-owners. Moreover, the expectation is that the info is necessary so member-owners know when and where to attend."
+        },
+        {
+          "emc": "middle-georgia-emc",
+          "cta1": "Remove all stipulations and prerequisites and allow member-owners to attend monthly board meetings without prior consent or notice. Co-op principals two and five dictate \"democratic member control\" and \"education, training, and information\". Open monthly meetings are a must for member-owners to be knowledgeable about what is happening in their co-ops and to participate. This must be clearly stated in the by-laws.",
+          "cta2": "Remove all stipulations and prerequisites and allow member-owners to attend and speak at monthly board meetings without prior consent or notice.",
+          "cta3": "Ensure the board of directors' pictures are available on the EMC website and educate member-owners on running for the board so diverse candidates will participate. This will assist in achieving board representation that is reflective of the demographics of the service territory population."
+        }
+       ]
+},
+{
+    "key": "question-cta",
+    "data": [
+        {
+          "order": 1,
+          "question": "dg-06",
+          "cta": "Ensure the board of directors' pictures are available on the EMC website and educate member-owners on running for the board so diverse candidates will participate. This will assist in achieving board representation that is reflective of the demographics of the service territory population."
+        },
+        {
+          "order": 2,
+          "question": "dg-01",
+          "cta": "Remove all stipulations and prerequisites and allow member-owners to attend monthly board meetings without prior consent or notice. Co-op principals two and five dictate  \"democratic member control\"  and \"education, training, and information\". Open monthly meetings are a must for member-owners to be knowledgeable about what is happening in their co-ops and to participate. This must be clearly stated in the by-laws."
+        },
+        {
+          "order": 3,
+          "question": "dg-07",
+          "cta": "Create and distribute a diversity plan that outlines the co-ops targets and standards regarding diversity, equity, and inclusion in the EMC's workforce, leadership, programs/policies, and communications/outreach."
+        },
+        {
+          "order": 4,
+          "question": "dg-08",
+          "cta": "Establish term limits that are explicitly stated in the by-laws for directors that limit their leadership to no more than six years. "
+        },
+        {
+          "order": 5,
+          "question": "dg-02",
+          "cta": "Remove all stipulations and prerequisites and allow member-owners to attend and speak at monthly board meetings without prior consent or notice."
+        },
+        {
+          "order": 6,
+          "question": "dg-04",
+          "cta": "Post minutes from monthly meetings on the EMC website within 48 hours. It is imperative that member-owners are privy to the decisions and discussions regarding the EMC. The service territory is expansive and providing meeting notes in a timely manner allow for transparency and accountability throughout the entire territory. "
+        },
+        {
+          "order": 7,
+          "question": "dg-14",
+          "cta": "Hire an independent agency to conduct annual board elections"
+        },
+        {
+          "order": 8,
+          "question": "dg-03",
+          "cta": "Provide board meeting dates; times; locations; and agenda on the EMC website. This information should be publicly available seeing as the directors are meeting to conduct official business on behalf of member-owners. Moreover, the expectation is that the info is necessary so member-owners know when and where to attend."
+        },
+        {
+          "order": 9,
+          "question": "dg-05",
+          "cta": "Update the EMC website to provide the email address and phone number for all board members so member-owners can contact them with questions or concerns. "
+        },
+        {
+          "order": 10,
+          "question": "ps-08",
+          "cta": "Develop a program and/or apply for grants to provide broadband service for any portion of the EMC service territory that is underserved. "
+        },
+        {
+          "order": 11,
+          "question": "dg-12",
+          "cta": "Adopt the policy to provide member-owner information (not to include acct. number) to qualified board of directors election candidates upon request and without exception."
+        },
+        {
+          "order": 12,
+          "question": "ps-07",
+          "cta": "Review and decrease the portion of the fee that is associated with the co-op dues."
+        }
+      ]
+  }
+]
